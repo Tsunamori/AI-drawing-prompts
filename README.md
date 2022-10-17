@@ -12,10 +12,12 @@
 
 部分prompts会携带配置，如果没写配置，请优先考虑使用默认配置或你自己用的顺手的配置。
 
+大部分prompts会使用机翻来翻译+少量人工优化，主要是懒。
+
 一般我都会自己生成一次作为样图（确保prompt真的好用），如果没图，要么是我还没更新，要么是**NSFW**。
 
 如果你使用了prompts但达不到效果，请提issue，如果你也有好玩的prompts想要分享，请大力pr。
 
 ## Collection
 
-[NovelAI](Novel%20AI/prompts.md)
+1. [NovelAI prompts](Novel%20AI/prompts.md)
