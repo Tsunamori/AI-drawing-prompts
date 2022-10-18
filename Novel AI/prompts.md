@@ -5,6 +5,7 @@
 2. [画面风格关键词](#一些定调风格的片段)
 3. [表情调整关键词](#一些调整微表情的片段)
 4. [不同风景关键词](#一些不同风景的片段)
+5. [整句](#一些整句)
 
 **关于符号对prompts的影响和调整，见[wiki](https://naidb.miraheze.org/wiki/Image_Generation)**
 
@@ -45,6 +46,8 @@ body pillow concept
 1980s style
 # 木炭素描
 Charcoal sketching
+# 
+album cover
 ```
 
 ## 一些调整微表情的片段
@@ -66,6 +69,82 @@ canyon
 
 ## 一些整句
 
+```
+# 先堆在这里后续会整理的
+
+Orcish {coat of arms}, gold and red, metallic, golden engraved boar heads, silver engraved mangrove trees
+
+HP lovecraft the outer gods awaken, black and white pencil drawing, masterpiece,  cosmic horror, lovecraftian horror, eldritch horror, cthulu, space, very detailed, detailed background,
+
+{Colour gradient,B&W colour mesh,high contrast,brown sketch,yellow shade,reflection in ground,glitch effect,shattered screen,Cyberpunk dystopian city,dark night, light rays, glow on edge}}}},1girl:white hair,blue eyes,white jacket,bare shoulder,slender legs,tall,hair split colour,exposed stomach,medium boobs,fight stance,holding sword,purple aura around sword,electric in sky,energy balls 
+
+{{{vaporwave}}}, {{neon lights}}, from below, looking down, cityscape, {{neon palette}}, starry sky, night sky, galaxy, skyscraper, on roof, 1girl, red cape, {torn cape}, black gloves, ankle boots, shorts, sitting, hands on feet, small breasts, white hair, short hair, spiky hair, brown eyes, detailed background
+
+Upper body of beautiful female and lower body as long slender tail, covered in small scales and fins, mermaid, monster girl, 1girl
+
+Crewmate (amongus)
+
+ultra-realistic,{{{{by Wadim Kashin}}}},doujin cover,dynamic angle,detailled hair,absurdres,cinematic lighting,intricate details,portrait of {{{{yae miko (genshin impact)}}}} looking at viewer with a sly smile,sakura garden,pink hair,purple eyes,danbooru
+
+Curated model
+
+50 steps, 8 scale
+
+Suzie, (唯@W: 1.1), {{{{{masterpiece}}}}}, {{{{best quality}}}}, {{arknights}}, 1girl, platinum hair, dark grey eyes, {{{smug}}}, medium bangs, {ponytail}, {{mole under eye}}, teenage, medium breasts, {glowing eyes}, hair between eyes, {{{{black hooded jacket}}}}, {{{{midriff peek}}}}, {{white shirt}}, black shorts, black pantyhose, {{{bandaged fingers}}}, {{{black fingerless gloves}}}, portrait, thigh pouch, {{{long sleeves}}}, {{black jacket partially removed}}, {{{black bulletproof vest}}}, waist pouches, {{{character sheet}}}, {{smirk}}
+
+Masterpiece, night sky in background, {scattered glowing turquoise butterflies}, green grass field, detailed background, vast, {{galaxy}}, cinematic lighting, dynamic angle
+Image
+
+bedroom, small apartment, skyscraper, science fiction, no humans, far future, futuristic, high tech
+
+hetero, couple, 1boy, 1girl, white boy, black girl, orange wavy hair, green curly hair, interracial, man yellow skin, girl green skin, sun spirit, dryad,
+
+{large masterpiece, detailed anime, best quality, {cinematic light}, intricate details, dynamic angle, dynamic hair, {solo, 1girl}}, middle breasts, silver long hair, curly hair, {in aquarium : 3}, {{{{{{{bubbles}}}}}}}, sun light, darkness, white side slit dress, wet, from behind, hair focus, low angle, standing, in water, brilliant light, ruined castle, {{looking afar}}, {{{{bright white magic circle}}}}
+
+(broken robot),illustration,1girl,expressionless,cold attitude,,red pupils,short hair, white hair,beautiful detailed eyes,jacket, cracked floor,damaged classroom, beautiful sky, Mechanical girl,
+
+{dark-skinned female}, (sketch:1),limited palette,(watercolor:2.0),beautiful eyes, green eyes,{{hair flower ornament}},{detailed elegant white dress},white hair,elegant,hair between eyes,detailed scenery,{plant},front view,slightly realistic 0.1,medium hair,{focus character},hair bun,{{flower pattern}},smile,white flower, greenhouse garden,{flying beautiful butterflies}, french braid,{{wick on the shoulders}},focus face
+
+{{Sketch, limited palette, watercolor, ink splatter,sci fi background}}, 1girl, 1boy, girl with long blonde hair fighting using a sword,girl with long white jacket,red shirt, knee socks, boy wearing black suit fighting with a gun, 1boy vs 1girl, epic fight,night sky,light rays,shadow,reflection on floor,glitch effect,red and white aura
+
+glitter, Ophelia, suicide, rococco, red, orange, moths
+
+hands-only, fingers, proper-anatomy.
+
+girl {blue_fade_to_gold_hair} big_hoodie real_diamond_earrings medium_lenght_hair 2_rabbit_ears chockers {{neon_city_background}} neon_city gold_and_purple_eyes 2_hoodie_strings cyberpunk steampunk gotchic
+
+1girl, hime cut, school uniform, hair over one eye, {black hair}, pale skin, breasts, long hair, multiple views, smirk, pantyhose, skirt lift, blazer
+Undesired: pointed ears, psychedelic, error, jpeg artifacts, pointed ears, helmet, extra digits, missing fingers, blush, monochrome
+
+Large cosmic mystic creature with near transparent wings floating in air, {scattered stars}, {{detailed background}}, cinematic lighting, masterpiece, intricate detail, {{{dramatic pose}}}, {{{dramatic angle}}}, galaxy cluster in background, grass field, night time
+
+{{{{{{{by Paul Hedley}}}}}}}, {{{{solo}}}}, {{{1girl}}}, {{{masterpiece}}}, digital_art, {{{{{{{{{knit_turtleneck_sweater}}}}}}}}}, {{{mature women}}}, {{{{{indigo_sweater}}}}}, {{{{friendly_dark_brown_eyes}}}}, {{short_Waves_hair}}}, {{{black_hair}}}, {{{{{{{{orange_pleated_skirt}}}}}}}}, {freckles}, {{{{{very_tiny_light_smile}}}}},  {{{hands open}}} 
+
+multicolored hair, 1girl, beautiful, small waist, realistic, ray tracing, red dress, tiara
+
+{{solo}}, {{{{{1girl}}}}}, {{{{{{{best quality}}}}}}}, {{{{masterpiece}}}}, {{{{{{{DETAILED}}}}}}}, {{{{extremely detailed}}}}, {{{{8K wallpaper}}}}, {1girl}, 
+brown eyes, glowing eyes, bright eyes, large eyes, short pink wavy hair, white head band, bangs, medium breasts, hair intakes, {{{{{loli}}}}},
+{{{white tank top}}}, {{{{pink buruma}}}},
+looking at viewer, {{{smile}}}, {{mouth open}},
+{{fluttered detailed splash}}, water splash, blurred background, gym, sweat, cherry blossom, 
+cinematic angle, cinematic lighting, {{{bokah}}}
+
+manhwa, 1girl,{{{masterpiece}}},{{{detail}}},{{{high resolution}}},ancient china, black detailed hair, black eyes, asian,Chinese,ancient Chinese clothes, white qipao,beautiful,alluring , holding paper umbrella,Ancient palace background
+
+Delicate facial features, {{blue_archive (Style)}}, best quality, detailed manga, detailed eyes, {cinematic light}, intricate details, dynamic angle, dynamic pose, dynamic hair, {solo, 1girl}}, night, milky way, window, white side slit dress, high hills, light silver hair, long curly hair, pink eyes, from above, eye focus, looking at viewer, star shaped hair cilp, crescent earring, standing, on bedroom
+
+1gil, white hair, long curls, long hair, braids, {{{{{frilly maid clothes}}}}}, detached sleeves, white sleeves, {{{{{{thorny roses}}}}}}, vines, petals, black choker, ribbon choker, red eyes, pale skin, kneehigh boots, {{{{{{{short skirt}}}}}}}, black boots, Shale armor boots, chapel background, soft light, standing, looking to side, medium breasts, cleavage, {{{{{Akihiko Yoshida}}}}}, {{{Leonid Afremov}}}
+
+1girl, pale skin, black hair, black eyes, neutral expression, white jacket, short hair, mature female, cyberpunk
+
+1girl, black suit, black tie, black hair, messy hair, round shades with red lenses, short hair, sketch face, sketch, rough shadows, manga style
+
+winter, elf, pale blue skin, pale blue eyes, pale blue curly hair, sad, full plate armor, winter engravings
+
+{{{danganronpa}}}, {{portrait}}, looking at viewer, facing forward, [CHARACTER NAME HERE]
+
+by_Wes_Anderson_propaganda_1girl
+```
 
 
 ## reference
