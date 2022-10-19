@@ -170,6 +170,17 @@ steampunk_hot_air_balloon_ornate_detailed
 1girl, floating hair, magic, lens flare, dynamic angle, portrait, solo, hidden hands, shattered glass, floating glass, glass fragments, ribbons, bowtie, hair ornament, buttons, cinematic lighting, shadows,
 
 celestial sorceress, beautiful eyes, silver shiny hair, delicate gold crown, diamonds, glitter, dynamic angle, (ink splatter:2.5), (agnes cecile:5.5), star-lit, limited palette, pixiv (style), {{{pearlescent}}}
+
+planet, city, starry sky, ecumenopolis city, star wars, Coruscant , weta digital, arial-view, city-world, city architecture, space elevator, in the wakanda concept art in artstation, vibrant, crowded, grim, skyscrapers, busy, crowds, 8k render, octane render, muted colors, central magic spire emenating energy
+
+{masterpiece},illustration,beautiful detailed,colourful,finely detailed,intricate details,{{focus face}},{focus character},1 girl, {{white hair}},double bun hair,long hair,cyan eyes,red ribbon,{{{wet school uniform}}},short sleeve, dynamic angle,floating,beautiful detailed eyes,detailed light ,floating hair,looking at viewer,ribbon on uniform,smile,ocean in background,hold watergun,{{{{wet}}}},full body,detailed feets,no shoes
+
+
+Pompt : {1girl}, {solo}, {{{dynamic angle}}}, {{{{dynamic hair}}}}, {{dynamic pose}}, {{{masterpiece}}}, {{{beautiful detailed hands}}}, illustration, {{{{{beautiful detailed nigth sky}}}}}, {{{{{beautiful-detailed eyes}}}}},  {{cinematic light}}, ultra detailed, {{{{{disheveld hair}}}}}, brown_long_hair, perm hair, {gradation eyes, (((black)))_eyes, gray_eyes}, {{halloween pumpkim}}, {{{halloween witch clothes}}}, {{frills}}, from below, looking viewer, eye focus, {moon light}, {{{{{big_orange_colored_magic_circle_on_back + mathematical_expression}}}}}, standing, {{{hair flows upsides}}}, {{{{clothes flows upsides}}}}, {{ruined castle background}}, {{expressionless}}, [[half closed eyes]], {{{{glow black eyes}}}}, {{glow orange body}}, {{{{{falling feathers foreground}}}}}, {{{{{{glowing white particles}}}}}}, small breasts, {{{{sky bubbles}}}}, {{{{light_from_back}}}}, [[lightning_on_back]]
+
+Negative : owres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, missing fingers, bad hands,missing arms, long neck, Humpbacked, spread legs, odd eyes
+
+{{{by atey ghailan}}} ,{{{{{pixel art}}}}},,first person shooter, fps, pov, holding a gun, night ,gun, shooting, neon lights, action pose, cyberpunk, futuristic, science fiction, city, techwear, {{masterpiece, best quality}},  {{crowd}}
 ```
 
 
