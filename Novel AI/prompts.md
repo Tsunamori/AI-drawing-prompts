@@ -144,6 +144,32 @@ winter, elf, pale blue skin, pale blue eyes, pale blue curly hair, sad, full pla
 {{{danganronpa}}}, {{portrait}}, looking at viewer, facing forward, [CHARACTER NAME HERE]
 
 by_Wes_Anderson_propaganda_1girl
+
+{{{action scene of: passionately smile at viewer}}},upper body,{white short shirt},1girl,red headphones,red eyes, red necktie,{{{{black trousers}}}},two-tone hair,{{{black hair}}},{{white hair}},red shoes,{{manga illustration, black-and-white, masterpiece}}{{solo, 1girl}},intricate details, character focus,{{chainsaw man(style)}}, manga (chainsaw man), demon background,{{detailed background}},{scattered glowing turquoise butterflies},{{universal gods awaken}}, cosmic horror, eldritch horror, alternate universe
+
+{{{lalafell}}}, {{{too many frills}}}, layered dress, gown, strapless, {{{detached sleeves}}}, blonde hair, very long hair, {hair flower}, blue eyes, beautiful eyes, red eyeshadow, choker, {{{bell}}}, jewelry, curtains, window, {{{starry sky}}}, {{{full moon}}}
+
+{{{Mori calliope:4}}}
+
+2girls, outside, nature; red hair, long hair, sidelocks, blunt bangs, blue eyes, blush, pale skin, flat chest, grey hoodie, shorts, black leggings, brown footwear; black hair, black shorts, long hair, looking at viewer, shorts, tan, tank top, medium breasts, smile, ponytail, purple eyes
+
+{Masterpiece}, 1guy, Plain white background. Dungeons and Dragons, fantasy, medieval.        hermit wizard.          young man, tall, 27 years old, very light skin, slender, gaunt face.          {semi long dark hair.}{{{ goatee}}}.         narrow tired eyes,  nose pointing downwards, thin lips.           tattered red cloak. dark burgundy scholar tunic.  simple attire.            art by takuji kawano and hiroaki hashimoto and shinkiro.          key visual. official work. 1990s' style. character art. vintage. retro.        Portrait. Close-up. Face. Long hair. Tattered red cloak. Brown robe.
+
+{{{masterpiece}}}, {{{best quality}}}, {{ultra-detailed}}, {illustration}, {{an extremely delicate and beautiful}}, beautiful detailed eyes,{detailed light},{beautiful deatailed shadow}, 1girl,  {small_breasts}, floating_hair,   black hair,{painting},danganronpa(series), multi colored-hair, inner colored hair, blue hair, aqua hair, blue eyes, {{{mechanical joint, mechanical arm}}}, messy hair, makima(chainsaw man),fujimoto tatsuki, gold, bags under eyes, white clothes, hand, :/,{{{{{{surrounded by heavy floating  floating sharp fragments}}}}}},focus on face,{upper body},{{{{1girl}}}}, abstract background, {{yellow fragments around head}}, {{{mecha musume}}}, oversized clothes, melting background, pink and aqua sky
+
+masterpiece, ultra detailed, best quality, best quality, amazing,1girl, pointy ears, finely detail, depth of field, extremely detailed CG unity 8k wallpaper, masterpiece, vampire girl, vampire element, teenager, age 18, adult style, flat chest, red hair, long twintails, red eyes, narrow eyes, pointed ears, pale skin, (beautiful detailed eyes),blood drop, blood fog, floating hair, light shafts, soft focus, character focus, dishevelled hair, looking at viewer, lowing hair, floating, splashing blood, (bloodstain), expressionless, pleated dress, no revealing clothing, bloody background, blood floating around, blood scenery, blood moon, blood sky,
+
+A large mirror that opens a portal to space, {galaxies in mirror}, masterpiece, {{{{highly detailed}}}}, highres, casual living room in background, cinematic lighting
+
+high_quality_background detailed_sky {rainforest} anime fantasy HD magical rain woods view_from_ground dirt moss masterpiece {{hyper_realistic}} night stars moon pond river small_fireflies best_quality clear_resolution
+
+steampunk_hot_air_balloon_ornate_detailed
+
+1girl, (ishida sui: 1.2),  (sketch:1), limited palette, red eyes, silver hair, shiny skin, hair between eyes, empty eyes, (lips:0.4), (watercolor:0.8), white background, (ink splatter: 1.1), from side, hair flower, (carne griffiths:1.1), red flower
+
+1girl, floating hair, magic, lens flare, dynamic angle, portrait, solo, hidden hands, shattered glass, floating glass, glass fragments, ribbons, bowtie, hair ornament, buttons, cinematic lighting, shadows,
+
+celestial sorceress, beautiful eyes, silver shiny hair, delicate gold crown, diamonds, glitter, dynamic angle, (ink splatter:2.5), (agnes cecile:5.5), star-lit, limited palette, pixiv (style), {{{pearlescent}}}
 ```
 
 
