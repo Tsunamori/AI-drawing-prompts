@@ -170,6 +170,37 @@ steampunk_hot_air_balloon_ornate_detailed
 1girl, floating hair, magic, lens flare, dynamic angle, portrait, solo, hidden hands, shattered glass, floating glass, glass fragments, ribbons, bowtie, hair ornament, buttons, cinematic lighting, shadows,
 
 celestial sorceress, beautiful eyes, silver shiny hair, delicate gold crown, diamonds, glitter, dynamic angle, (ink splatter:2.5), (agnes cecile:5.5), star-lit, limited palette, pixiv (style), {{{pearlescent}}}
+
+{{by Gaston Bussiere}}, Chiaroscuro, {{{realistic}}}, {{{art nouveau}}}, gorget, upper body, 1girl, monster girl, succubus, long hair, smile, evil, glowing eyes, blue skin, purple hair, green eyes, backlit, overbust corset, dragon wings, {{hellfire, fire background}}
+
+1girl, solo, fire particles, white hair, short hair, curly hair (idea from myeong_chung), red eyes, burning, blue fire, serious, cinematic angle, lighting, mage,
+
+1girl, {{{{{crystalline, made of glass, clear, transparent}}}}}, glass girl, braided hair, purple hair, {{{{{{mature}}}}}, glass eyes, green eyes, her looks will make you fall in love, photorealistic, high quality, limited palette UC: blush
+
+Realistic, Female, robot, black sclera, sad smile, ceramic skin, bronze skin, four eyes, clockwork, goddess, steampunk, unnatural, curious, porcelain, cracked skin, doll, white skin, orokin
+
+family crest, sigil, {{{{dragon}}}}, {{{{elvish}}}}, {{{{elegant}}}}, {{{{{{purple and black shield with golden detailing}}}}}}, {{{symmetrical}}}, {{{{family crest}}}}, {{{{coat of arms}}}}, {{{{{flowers}}}}}, {{{{black background}}}}, intricate details, dynamic lighting,
+
+masterpiece, {{sci-fi}}, shattered glass, {{{{transhumanism, made of the future, clear, transparent}}}}, {science hexagon floor}, {{1girl, solo, red tech outfit}}, {white background},  full body, facing viewer, {{cross-section, diorama}},  comets, space, digital wire frame, anti gravity, floating, holographic face, projection, posthuman
+
+colorized, high resolution, novigrad, the witcher
+
+{{NaissancccceE}}, {yakumo yukari, 1girl, [mobcap], tabard, oversized clothes}, black gloves, {{high collar}}, covered mouth,{tabards collar}, white sleeves, red ribbon at elbows, close-up, pose,
+
+
+UC: {{mouth mask,}} breast focus, huge breasts, slim, skin tight, collar, tail, tails
+
+
+masterpiece, best quality, 4k, highres, from behind, futuristic, 1girl, {{{{{ultra detailed}}}}}, {{detailed background}}, {Ruby Rose(RWBY) on foreground}, look away, standing, science fiction, city in sky, spacecraft on background, dark grey eyes, bodysuit,  medium breasts, very wide shot, fisheye, {{{dynamic angle}}}
+
+realistic, apocalypse barren world, fog, rain, {1girl}, detailed face, realistic eyes, young, small breasts, flat chest, white hair, very long hair, twintails, gold metal hair ornament, {white shawl}, white and black feathered wings, large wings, bright [[green]] eyes, long skirt,
+
+{1girl}, {solo}, {{{dynamic angle}}}, {{{{dynamic hair}}}}, {{{masterpiece}}}, {{{beautiful detailed hands}}}, illustration, {{{{{beautiful detailed sky}}}}},  {{cinematic light}}, ultra detailed, {{{{{disheveld hair}}}}}, small breasts, on rooftop, pink_short_hair, curly hair, {{{hair flows upsides}}}, day, {{sun light}}, city, standing, {{{{{white_crop_tee}}}{{, {{{{yoga_skinny_pants}}}}, {{leaning breasts on handrail}}, {{{from above}}}, {{{{looking down to city}}}}, light smile, open mouth, {{{{glow_white_particles}}}}, {{{turn around}}}, falling feathers, [[[cloud]]], heart_shaped_hair_clip, simple_earring, {{{{{{pink_snapback}}}}}}, {{blue_short_jacket}}, {{{turn_back}}}, {{{beautiful_detailed_light}}}, {{high_buildings}}, {{face_toward_afar}}, {horizon}
+
+red mage casting a colorful magic circles in the air casting a huge fire spell, red hair, light effects, magic, red mage, explosion, multicolored magic, meteor, night sky, starry sky, falling star, colors
+Image
+
+{pc-98},{mediumpixel}, {dithering}, abandoned blue factory, outside, dark night, sky, imposing, creepy, vibrant city in background 
 ```
 
 
