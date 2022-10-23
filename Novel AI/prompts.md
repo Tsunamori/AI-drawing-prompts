@@ -212,6 +212,50 @@ Pompt : {1girl}, {solo}, {{{dynamic angle}}}, {{{{dynamic hair}}}}, {{dynamic po
 Negative : owres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, missing fingers, bad hands,missing arms, long neck, Humpbacked, spread legs, odd eyes
 
 {{{by atey ghailan}}} ,{{{{{pixel art}}}}},,first person shooter, fps, pov, holding a gun, night ,gun, shooting, neon lights, action pose, cyberpunk, futuristic, science fiction, city, techwear, {{masterpiece, best quality}},  {{crowd}}
+
+{extremely detailed CG unity 8k wallpaper}, {{masterpiece}}, {{{best quality}}}, {{ultra-detailed}}, {best illustration}, {surreal} architecture, staircase, beautiful details, cerulean blue, rococo, [[buckingham palace]], visual novel background, {{medieval}}, {{game cg}}, gothic, plants
+
+Undesired: chandelier, lamps, people
+Steps: 28
+Scale: 12
+
+{{{1girl, white hair,  blue eyes, long hair, white dress, golden trimmings, angelic wings, white thighhighs, halo, navel cutout}}}, small breasts, petite, {above clouds, sun rays}, cathedral
+
+{{{{PSX GRAPHICS}}}}, {BEST QUALITY}}, {{MASTERPIECE}}, {{GOOD ANATOMY}}, {{CINEMATIC LIGHTING}}, {{DETAILED}}, {{TELEPHOTO LENS}},  {{PIXIV CONTEST WINNER}},{goddess}, {divine}, {{CARTOON}}, {REALISTIC}, dangerous look, {{{white eris black pupil with gold trim}}}, short black shiny hair, godly pose, unique pose, fractal horns with gold spinning up them, Prismatic claws, {{pale white skin}}, fullbody, in a fractal dimension, edgy regal cloak, pearlescent skin, edgy, regal, dynamic lighting, realistic shadows, perfect angle, hyper realistic, detailed face, detailed eyes, realistic face 
+
+
+masterpiece, best quality, {{{{{illustration}}}}},,by Yuko Shimizu,1girl,chinese dragon,chinese girl,female focus on, {{color Ink wash painting}},{{ink splashing}},{{color splashing}}
+
+{{{masterpiece}}}, {{{best quality}}}, elf, {long pointy ears}, {{{{{colored skin}}}}}, {{{{{{{green skin}}}}}}}, {{{{gradient hair}}}}, mixed colours, green curly hair, green eyes, light green curly hair, {{dark green wavy hair}}, {{{{{multicoloured hair}}}}}, {{hair flower}}, {dress}, {sleeves}, lips, {{pov}}, {{photorealistic}}, symmetry
+Steps 28 Scale 5
+
+(((masterpiece))),(((best quality))),((ultra-detailed)), ((illustration)),floating, ((an extremely delicate and beautiful)),(beautiful detailed eyes),((disheveled hair)), (painting),(sketch), 1girl, loli, small_breasts,((neck)),(((back))),(looking back), blush, sliver hair,backless dress,{{{garden}}}, {{{white flowers}}}, {{floral background}},
+
+1boy, Masterpiece, best quality, hyper detailed, Cinematic light, intricate detail, highres, official art, high resolution illustration, finely detailed beautiful eyes, dark intense shadows, overexposure, depth of field, particle,  illustration, wildstyle, boy,  orange and blue hair, symmetrical hair color, orange hoodies, aquatic eyes, 
+
+1girl, cigarette, balcony, confident, short hair, intricate leather jacket, punk, upper body, night, looking at camera, large shoulders, medium breasts, realistic, messy hair, rainbow hair, fireworks, symmetry, shirtless, choker, mature, adult
+
+black and white, stylized, line art. monochrome, girl, stars
+
+Cyril Rolando, Roberto Cavalli, a girl in a valley summoning armageddon, realistic, 1girl, vortex, swirling dust, blue hair, blue eyes, floating rocks, floating, shattered, upper body, corset, gorget, lace-trimmed shirt, poofy sleeves, magic circle, detached sleeves, medium breasts, dynamic angle, light particles
+
+{Zdzisław Beksiński, Akihiko Yoshida}, {horror}, [3d], {{solo}}, "the angel of perception", floating head, many golden rings, {{giant red eye, third eye, light beam}}, holding ivory staff, beautiful face, very long hair, golden hair, angelic, {angel wings}, halo, clockwork
+
+{{{masterpiece}}}, {{{best quality}}}, 1girl, {{{{{{colored skin (black)}}}}}}, {{{{{{{black skin}}}}}}}, {{{{dynamic hair (fire)}}}}, {{{{gradient hair (fire)}}}}, mixed colours, {{red flamming hair}},  orange flamming hair, {{blue flamming hair}}, {{{{{multicoloured hair (fire)}}}}}, {white dress}, {sleeves}, {{pov}}, {{{absurdres}}}, {{photorealistic}}, {{perfect eyes}}, {{detailed eyes}}, highres
+Steps 28 Scale 6 Sampling k_lms
+
+{{{{{{mixed colours}}}}}}, black, white, red, blue, 1girl,vertical symmetry, {ink splatters}, {{spilt paint}}, {{{full body}}}, {{industrial}}, {{inky hair}}, flowing hair, {{{{contrasting background}}}}, {dripping paint}
+
+{{{viking tapestry}}},pale elven woman with long, pale green hair, {hime cut}, sidelocks with hairties, two long front locks of hair, wearing light green and brown medieval clothing, flat chest, lotr, fully clothed, neutral expression, {impasto impressionism}, [art nouveau], forehead, straight hair, nose, hair ties,
+
+portrait,The World of Crystal,iridescent,1girl,loli,very young,Ice Goddess,solo,Ice magic, ice-flame magic,ice storm,shining eyes,jewely eyes,{{{{glint in eye}}}},Light of the moving line of sight,colorful,ice crystals clothes,ice crystals hair ornaments,dynamic pose,Dancing crystals, snow crystals,diffuse reflections,{{Masterpiece}}, {{stunning art}},  best quality, hyper detailed,beautiful, masterpiece,wind,{{dynamic angle}},{{lens flare}},beatiful detailed dark sky,{{beatiful aurora}},beatlful detailed frozen sea,{{Rainbow-colored particles}},reflective hair,good lighting,crystal tint,ray tracing,world masterpiece theater,depth of field,{ultra-detailed}, {illustration}, {detailed light｝ Amazing,beautiful detailed eyes,finely detail, extremely detailed CG,original, extremely detailed wallpaper, {an extremely delicate and beautiful},8k wallpaper
+
+negative: lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, long body,illust,big stomach,big breast, long neck
+
+{{best quality castle}}, {extremely detailed CG unity 8k wallpaper}, {{{only background}}},  {{masterpiece}}, {{{best quality}}}, {{ultra-detailed}}, {best illustration}, {best shadow}, {{an extremely delicate and beautiful}}, {{{dynamic angle}}}, {{{{{glow white particles}}}}}, {{cinematic light}},  {{{in_forest}}}, {river}, day, {{sun light}}, reflection water, {{{beautiful detailed water}}}, {{bright background}}, [[sky bubbles]], {{floating calstle}}, {{falling blossom}}, {{{beautiful and delicate water}}}, {{{{{glow_pink_particles}}}}, {shine}, nature, spring, painting, falling feathers
+
+Steps 50, Scales 3.5 ~ 7
+
 ```
 
 
