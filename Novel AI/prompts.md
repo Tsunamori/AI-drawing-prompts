@@ -256,6 +256,18 @@ negative: lowres, bad anatomy, bad hands, text, error, missing fingers, extra di
 
 Steps 50, Scales 3.5 ~ 7
 
+A girl sitting on a pole in the middle of a sea, horns, suit, good composition, simplistic composition, silhouette, red moon, by Russ Mills
+
+
+A 18th century painting, {{{cityscape}}}, {{{{town}}}}, {{street}}, structures, buildings, {{{{rich}}}}, fancy, luxurious, {{{{epic}}}}, beautiful, incredible, breathtaking, [[skyscrapers]], high detail, best quality, dynamic shadows, {{{{dramatic shadows}}}}, {{{{trending in artstation}}}}, {{{{{{photorealistic}}}}}}, lossless, backlighting, blending, {{ray tracing}}, {{render}}, {{surreal}}  | 18th century {{{landscape}}} painting, scenery, horizon, panorama, blue sky, {{1700's}}, [[mountainous horizon]], green fields, {{{{dramatic shadows}}}}, {{{{trending in artstation}}}}, {{{{{{photorealistic}}}}}},
+
+1boy, Masterpiece, best quality, hyper detailed, Cinematic light, intricate_detail, highres, official art, high resolution illustration, 8k,Masterpiece, best quality, hyper detailed, Cinematic light, intricate_detail, highres, official art, high resolution illustration, 8k, dark intense shadows, beautiful detailed forest, {{black top hat, black suit, torn clothing, dark clothing}}, dark evil eyes, {{evil}}, {{{burning village}}}, insanity, screaming, {{burlap sack over head}}, crows around the character, turned head, looking at viewer, evil particles, {{dark forest}}, upper body, from above, night, {{anime}}, {{{{demonic}}}}
+
+{{{{{masterpiece}}}}, {{summer uniform}}, side view, rain, {{{intricate details}}}, {{{{{beautiful detailed background}}}}, {{{detailed hair}}}, {{{sparkling eyes}}}, cloudy, {{{raindrops}}}, {{{cinematic lighting}}}, {{dynamic shot}}, {{illustration}} 
+
+NAI Diffusion Anime (Full)
+
+Steps 28, Scale 11
 ```
 
 
@@ -266,3 +278,4 @@ Steps 50, Scales 3.5 ~ 7
 3. [非官方wiki-UNKB](https://naidb.miraheze.org/wiki/Main_Page)
 4. [胧雨夜NovelAI](https://www.yuque.com/longyuye/lmgcwy/)
 5. （**NSFW Warning**）[训练集来源danbooru](https://danbooru.donmai.us/)
+6. [某位韩国玩家的prompt收录集](https://docs.google.com/document/d/11sb3AOCE4B5CZeMELNL8PwWoIae2jkrdcz-UEJw_Ayc/edit)
