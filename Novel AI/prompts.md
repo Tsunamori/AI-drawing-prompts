@@ -101,18 +101,44 @@ album cover
 
 **因为涉及人物表情所以为了稳定产出，一概使用“1girl, {{关键词}}, close-up, detailed face”（close-up是拉近距离，detailed face增加脸部权重），方便观察表情**
 
+（本来是想分个喜怒哀惧爱恶欲的但是就个人体验来说这样分对于AI来说太细了，不一定能稳定产出。微表情这块其实挺难精准达到想要的效果，我们就简单以表情分类，不研究人物心理，不研究假笑boy。）
+
+### 喜/乐
+
 ```
-# 官方举例使用的，代替“tired”
-pensive
-```
-```
-# 微笑
+# 普通的微笑
 smile/smling
 ```
 ![image](../pic_stoarge/NovelAi%20pic/1girl,%20%7B%7Bsmile%7D%7D,%20close-up,%20detailed%20face%20s-2116702852.png)
+
 ```
-laugh
+# 普通的露齿而笑
+laugh/laughing
 ```
+![image](../pic_stoarge/NovelAi%20pic/1girl,%20%7B%7Blaughing%7D%7D,%20close-up,%20detailed%20face%20s-75078365.png)
+
+### 怒/恶
+
+### 哀
+
+```
+# 沉思/哀思/忧沉
+# 官方举例使用的，代替“tired”。（看起来也并不怎么tired）
+pensive
+```
+![image](../pic_stoarge/NovelAi%20pic/1girl,%20%7B%7Bpensive%7D%7D,%20close-up,%20detailed%20face%20s-2382253054.png)
+
+### 惧
+
+### 面无表情
+
+（为什么要单独分类呢因为我觉得应该很有需求，毕竟面无表情的绘画作品很多。）
+
+```
+emotionless
+```
+
+
 
 ## 一些不同风景的片段
 
