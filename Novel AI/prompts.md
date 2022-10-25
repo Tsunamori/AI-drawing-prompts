@@ -4,7 +4,7 @@
 1. [画面质量关键词](#一些提升画面质量的片段)
 2. [画面风格关键词](#一些定调风格的片段)
 3. [表情调整关键词](#一些调整微表情的片段)
-4. [纯风景关键词](#一些不同风景的片段)
+4. [风景/静物/非人关键词](#风景静物非人关键词)
 5. 光影/滤镜关键词
 6. 人物外貌/服装/种族/设定关键词
 7. 人物背景搭配关键词
@@ -16,6 +16,8 @@
 **为了展示效果，非整句的关键词样图如无其它备注的话，都是以且仅以{{关键词}}来生成的。**
 
 **样图自带metadata，可以下载原图并导入novelAI使用prompts或配置**
+
+~~恐怖向的放在非人分类了~~
 
 ## 一些提升画面质量的片段
 
@@ -165,19 +167,35 @@ emotionless
 ![image](../pic_stoarge/NovelAi%20pic/1girl,%20%7B%7Bemotionless%7D%7D,%20close-up,%20detailed%20face%20s-558398365.png)
 
 
-## 一些不同风景的片段
+## 风景/静物/非人关键词
 
+### 风景
 ```
 # 峡谷
 canyon
 ```
+### 静物
+```
+# 徽章/家徽
+coat of arms
+## 样例
+Orcish {coat of arms}, gold and red, metallic, golden engraved boar heads, silver engraved mangrove trees
+兽人{徽章}，金色和红色，金属，金色雕刻的野猪头，银色雕刻的红树林
+```
+![image](../pic_stoarge/NovelAi%20pic/Orcish%20%7Bcoat%20of%20arms%7D,%20gold%20and%20red,%20metallic,%20golden%20engraved%20boar%20heads,%20silver%20engraved%20mangrove%20trees%20s-761753710.png)
 
+### 非人
+
+不知道怎么说反正就是很怪的东西
+```
+# 霍华德·菲利普斯·洛夫克拉夫特，简称H·P·洛夫克拉夫特，美国恐怖、科幻与奇幻小说作家
+HP lovecraft
+```
+![image](../pic_stoarge/NovelAi%20pic/HP%20lovecraft%20s-2216368041.png)
 ## 一些整句
 
 ```
 # 先堆在这里后续会整理的
-
-Orcish {coat of arms}, gold and red, metallic, golden engraved boar heads, silver engraved mangrove trees
 
 HP lovecraft the outer gods awaken, black and white pencil drawing, masterpiece,  cosmic horror, lovecraftian horror, eldritch horror, cthulu, space, very detailed, detailed background,
 
