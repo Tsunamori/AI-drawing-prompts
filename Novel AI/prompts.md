@@ -2,14 +2,14 @@
 
 **目录：**
 1. [画面质量关键词](#一些提升画面质量的片段)
-2. [画面风格关键词](#一些定调风格的片段)
-3. [表情调整关键词](#一些调整微表情的片段)
+2. [画面风格/滤镜关键词](#画面风格/滤镜关键词)
+3. [人物表情关键词](#一些调整微表情的片段)
 4. [风景/静物/非人关键词](#风景静物非人关键词)
-5. 光影/滤镜关键词
+5. 光影/打光/阴影关键词
 6. 人物外貌/服装/种族/设定关键词
-7. 人物背景搭配关键词
-8. 人物动作/姿势/角度关键词
-9. [好看的整句组合](#一些整句)
+7. 人物背景搭配/魔法特效/背景装饰关键词
+8. 人物动作/姿势/角度/画面框选关键词
+9. [还没整理分类或者组合很有意思的整句](#一些整句)
 
 **关于符号对prompts的影响和调整，见[wiki](https://naidb.miraheze.org/wiki/Image_Generation)**
 
@@ -33,7 +33,7 @@ masterwork
    关于best quality/high quality等其实还有其它quality关键词（但都偏向于降低质量，具体参照[wiki](https://naidb.miraheze.org/wiki/Image_Generation)）
 
 
-## 一些定调风格的片段
+## 画面风格/滤镜关键词
 
 ```
 # 像素风。
@@ -47,6 +47,13 @@ pixel art
 Sketch, paper
 ```
 ![image](../pic_stoarge/NovelAi%20pic/%7B%7BSketch,%20paper%7D%7D%20s-369171098.png)
+
+```
+# 黑白风/素描
+# 看起来更像是加了黑白滤镜的效果
+black and white pencil drawing
+```
+![image](../pic_stoarge/NovelAi%20pic/black%20and%20white%20pencil%20drawing%20s-2015795017.png)
 ```
 # 同一张图有多个姿势的草稿。
 # 使用anatomy（解剖学）会在同一张上产出多个姿势，dynamic pose会加重不同“姿势”的权重，sketch则产出草稿风。如果嫌默认配置生成的姿势不够多，可以把画面尺寸调成横版。
@@ -54,7 +61,7 @@ Dynamic pose, sketch, anatomy
 ```
 ![image](../pic_stoarge/NovelAi%20pic/%7B%7BDynamic%20pose,%20sketch,%20anatomy%20%7D%7D%20s-4032864350.png)
 ```
-# 会产出比较超出常规姿势角度的图。
+# 动态角度，会产出比较超出常规姿势角度的图。
 # 可以在想要调整人物角度的时候跟着姿势关键词一起加进去增加姿势权重（比如一些背身回头看之类的），也可以在毫无灵感的时候加进去看看会不会有奇妙的结果产出。
 Dynamic angle
 ```
@@ -77,7 +84,7 @@ dynamic lying down pose
 ![image](../pic_stoarge/NovelAi%20pic/%7B%7Bdynamic%20lying%20down%20pose%7D%7D%20s-2486858854.png)
 ```
 # 长条抱枕正反面。
-# 懂得都懂，但是得把画纸调整到长条，不然就变成角色抱抱枕了。如果你想知道怎么稳定生成反面，试试加一个{{{NSFW}}}。
+# 懂得都懂，但是得把画面尺寸调整到长条，横版会变成角色抱抱枕。如果你想知道怎么稳定生成反面，试试加一个{{{NSFW}}}。
 body pillow concept
 ```
 ![image](../pic_stoarge/NovelAi%20pic/%7B%7Bbody%20pillow%20concept%7D%7D%20s-2762089941.png)
@@ -155,6 +162,11 @@ pensive
 ```
 ![image](../pic_stoarge/NovelAi%20pic/1girl,%20%7B%7Bpensive%7D%7D,%20close-up,%20detailed%20face%20s-2382253054.png)
 
+```
+# 哭泣
+crying
+```
+
 ### 惧
 
 ### 面无表情
@@ -186,18 +198,46 @@ Orcish {coat of arms}, gold and red, metallic, golden engraved boar heads, silve
 
 ### 非人
 
-不知道怎么说反正就是很怪的东西
+不知道怎么说反正就是很怪的东西，这里样图不使用”{}“加重了，以免产出怪东西。
 ```
 # 霍华德·菲利普斯·洛夫克拉夫特，简称H·P·洛夫克拉夫特，美国恐怖、科幻与奇幻小说作家
 HP lovecraft
 ```
 ![image](../pic_stoarge/NovelAi%20pic/HP%20lovecraft%20s-2216368041.png)
+
+```
+# 宇宙恐怖
+# 如果使用加重符号的话会增加一些星空/月亮之类的元素（但不太好看）
+cosmic horror
+```
+![image](../pic_stoarge/NovelAi%20pic/cosmic%20horror%20s-1450316228.png)
+
+```
+# 洛夫克拉夫特式恐怖，是恐怖小说的一个子类别，着重强调未知的宇宙恐怖，而不是血腥或其他惊吓元素
+Lovecraftian horror
+```
+![image](../pic_stoarge/NovelAi%20pic/lovecraftian%20horror%20s-501658101.png)
+
+```
+# 古怪恐怖
+eldritch horror
+```
+![image](../pic_stoarge/NovelAi%20pic/eldritch%20horror%20s-705923851.png)
+
+```
+# 克苏鲁
+# 产出大概会围绕着章鱼/软体动物生成，单看并不恐怖，只是有点掉san
+cthulu
+```
+![image](../pic_stoarge/NovelAi%20pic/cthulu%20s-4209023468.png)
+
 ## 一些整句
 
 ```
 # 先堆在这里后续会整理的
 
 HP lovecraft the outer gods awaken, black and white pencil drawing, masterpiece,  cosmic horror, lovecraftian horror, eldritch horror, cthulu, space, very detailed, detailed background,
+HP 洛夫克拉夫特外神觉醒，黑白铅笔画，杰作，宇宙恐怖，洛夫克拉夫特恐怖，诡异恐怖，克苏鲁，空间，非常详细，详细的背景，
 
 {Colour gradient,B&W colour mesh,high contrast,brown sketch,yellow shade,reflection in ground,glitch effect,shattered screen,Cyberpunk dystopian city,dark night, light rays, glow on edge}}}},1girl:white hair,blue eyes,white jacket,bare shoulder,slender legs,tall,hair split colour,exposed stomach,medium boobs,fight stance,holding sword,purple aura around sword,electric in sky,energy balls 
 
