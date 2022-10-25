@@ -4,10 +4,18 @@
 1. [画面质量关键词](#一些提升画面质量的片段)
 2. [画面风格关键词](#一些定调风格的片段)
 3. [表情调整关键词](#一些调整微表情的片段)
-4. [不同风景关键词](#一些不同风景的片段)
-5. [整句](#一些整句)
+4. [纯风景关键词](#一些不同风景的片段)
+5. 光影/滤镜关键词
+6. 人物外貌/服装/种族/设定关键词
+7. 人物背景搭配关键词
+8. 人物动作/姿势/角度关键词
+9. [好看的整句组合](#一些整句)
 
 **关于符号对prompts的影响和调整，见[wiki](https://naidb.miraheze.org/wiki/Image_Generation)**
+
+**为了展示效果，非整句的关键词样图如无其它备注的话，都是以且仅以{{关键词}}来生成的。**
+
+**样图自带metadata，可以下载原图并导入novelAI使用prompts或配置**
 
 ## 一些提升画面质量的片段
 
@@ -20,43 +28,89 @@ detailed
 masterwork
 ```
 一些细碎补充：
-1. 关于best quality/high quality等其实还有其它quality关键词（但都偏向于降低质量，具体参照[wiki](https://naidb.miraheze.org/wiki/Image_Generation)）
+   关于best quality/high quality等其实还有其它quality关键词（但都偏向于降低质量，具体参照[wiki](https://naidb.miraheze.org/wiki/Image_Generation)）
 
 
 ## 一些定调风格的片段
 
 ```
-# 像素风
+# 像素风。
+# 我见过有人在prompts里用pixel art生成过很好看的类似于像素风游戏那种场景，用处还是很大的，不要嫌样图丑。
 pixel art
-# 草稿风
+```
+![image](../pic_stoarge/NovelAi%20pic/%7B%7Bpixel%20art%7D%7D%20s-1775920509.png)
+```
+# 草稿风。
+# 这里因为加了paper所以多少可能会产出一些“像是纸上绘图”的作品，也可能会产出人物拿着纸张之类的图，如果想要排除这种干扰可以去掉paper或者给paper降低权重（[paper]）。
 Sketch, paper
-# 同一张图有多个姿势的草稿
+```
+![image](../pic_stoarge/NovelAi%20pic/%7B%7BSketch,%20paper%7D%7D%20s-369171098.png)
+```
+# 同一张图有多个姿势的草稿。
+# 使用anatomy（解剖学）会在同一张上产出多个姿势，dynamic pose会加重不同“姿势”的权重，sketch则产出草稿风。如果嫌默认配置生成的姿势不够多，可以把画面尺寸调成横版。
 Dynamic pose, sketch, anatomy 
-# 比上一个更加强调多角度
-Dynamic angle, sketch
-# 概念艺术
+```
+![image](../pic_stoarge/NovelAi%20pic/%7B%7BDynamic%20pose,%20sketch,%20anatomy%20%7D%7D%20s-4032864350.png)
+```
+# 会产出比较超出常规姿势角度的图。
+# 可以在想要调整人物角度的时候跟着姿势关键词一起加进去增加姿势权重（比如一些背身回头看之类的），也可以在毫无灵感的时候加进去看看会不会有奇妙的结果产出。
+Dynamic angle
+```
+```
+# 概念艺术。
+# 我的理解是，额，概念艺术就是概念艺术嘛，适合在想要生成更奇幻的内容时添加进去。
 concept/concept art
-# 同人封面
+```
+![image](../pic_stoarge/NovelAi%20pic/%7B%7Bconcept%20art%7D%7D%20s-3708819849.png)
+```
+# 同人封面。
+# 总之就是看起来很同人封面的意思，需要的时候可加，也可以在无灵感的时候加进去试试运气。（此处总会生成一些大胸奶照就不举例了免得NSFW）
 doujin cover
-# 动态躺姿
+```
+```
+# 动态躺姿。
+# 适合在尝试生成躺姿的时候使用。建议使用横版（landscape）产出图片。不然容易生成多个躺姿。
 dynamic lying down pose
-# 长条抱枕正反面，懂得都懂，但是得把画纸调整到长条，不然就变成角色抱抱枕了
+```
+![image](../pic_stoarge/NovelAi%20pic/%7B%7Bdynamic%20lying%20down%20pose%7D%7D%20s-2486858854.png)
+```
+# 长条抱枕正反面。
+# 懂得都懂，但是得把画纸调整到长条，不然就变成角色抱抱枕了。如果你想知道怎么稳定生成反面，试试加一个{{{NSFW}}}。
 body pillow concept
+```
+![image](../pic_stoarge/NovelAi%20pic/%7B%7Bbody%20pillow%20concept%7D%7D%20s-2762089941.png)
+```
 # 复古番风
+# 总之看图
 1980s style
+```
+![image](../pic_stoarge/NovelAi%20pic/%7B%7B1980s%20style%7D%7D%20s-1898161084.png)
+```
 # 木炭素描
 Charcoal sketching
-# 
+```
+![image](../pic_stoarge/NovelAi%20pic/%7B%7BCharcoal%20sketching%7D%7D%20s-2734295646.png)
+```
+# 专辑封面
+# 说到专辑封面你会想到什么样的图片？对了，就是那样。
 album cover
 ```
+![image](../pic_stoarge/NovelAi%20pic/%7B%7Balbum%20cover%7D%7D%20s-674332815.png)
 
 ## 一些调整微表情的片段
+
+**因为涉及人物表情所以为了稳定产出，一概使用“1girl, {{关键词}}, close-up, detailed face”（close-up是拉近距离，detailed face增加脸部权重），方便观察表情**
 
 ```
 # 官方举例使用的，代替“tired”
 pensive
-# 各种笑(比较常见的就不举例了吧)
+```
+```
+# 微笑
 smile/smling
+```
+![image](../pic_stoarge/NovelAi%20pic/1girl,%20%7B%7Bsmile%7D%7D,%20close-up,%20detailed%20face%20s-2116702852.png)
+```
 laugh
 ```
 
