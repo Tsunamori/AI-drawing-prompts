@@ -2,13 +2,13 @@
 
 **目录：**
 1. [画面质量关键词](#一些提升画面质量的片段)
-2. [画面风格/滤镜关键词](#画面风格/滤镜关键词)
+2. [画面风格/色调/滤镜关键词](#画面风格色调滤镜关键词)
 3. [人物表情关键词](#一些调整微表情的片段)
 4. [风景/静物/非人关键词](#风景静物非人关键词)
 5. 光影/打光/阴影关键词
 6. 人物外貌/服装/种族/设定关键词
 7. 人物背景搭配/魔法特效/背景装饰关键词
-8. 人物动作/姿势/角度/画面框选关键词
+8. [人物动作/姿势/角度/画面框选关键词](#人物动作姿势角度画面框选关键词)
 9. [还没整理分类或者组合很有意思的整句](#一些整句)
 
 **关于符号对prompts的影响和调整，见[wiki](https://naidb.miraheze.org/wiki/Image_Generation)**
@@ -33,7 +33,7 @@ masterwork
    关于best quality/high quality等其实还有其它quality关键词（但都偏向于降低质量，具体参照[wiki](https://naidb.miraheze.org/wiki/Image_Generation)）
 
 
-## 画面风格/滤镜关键词
+## 画面风格/色调/滤镜关键词
 
 ```
 # 像素风。
@@ -54,17 +54,7 @@ Sketch, paper
 black and white pencil drawing
 ```
 ![image](../pic_stoarge/NovelAi%20pic/black%20and%20white%20pencil%20drawing%20s-2015795017.png)
-```
-# 同一张图有多个姿势的草稿。
-# 使用anatomy（解剖学）会在同一张上产出多个姿势，dynamic pose会加重不同“姿势”的权重，sketch则产出草稿风。如果嫌默认配置生成的姿势不够多，可以把画面尺寸调成横版。
-Dynamic pose, sketch, anatomy 
-```
-![image](../pic_stoarge/NovelAi%20pic/%7B%7BDynamic%20pose,%20sketch,%20anatomy%20%7D%7D%20s-4032864350.png)
-```
-# 动态角度，会产出比较超出常规姿势角度的图。
-# 可以在想要调整人物角度的时候跟着姿势关键词一起加进去增加姿势权重（比如一些背身回头看之类的），也可以在毫无灵感的时候加进去看看会不会有奇妙的结果产出。
-Dynamic angle
-```
+
 ```
 # 概念艺术。
 # 我的理解是，额，概念艺术就是概念艺术嘛，适合在想要生成更奇幻的内容时添加进去。
@@ -76,12 +66,6 @@ concept/concept art
 # 总之就是看起来很同人封面的意思，需要的时候可加，也可以在无灵感的时候加进去试试运气。（此处总会生成一些大胸奶照就不举例了免得NSFW）
 doujin cover
 ```
-```
-# 动态躺姿。
-# 适合在尝试生成躺姿的时候使用。建议使用横版（landscape）产出图片。不然容易生成多个躺姿。
-dynamic lying down pose
-```
-![image](../pic_stoarge/NovelAi%20pic/%7B%7Bdynamic%20lying%20down%20pose%7D%7D%20s-2486858854.png)
 ```
 # 长条抱枕正反面。
 # 懂得都懂，但是得把画面尺寸调整到长条，横版会变成角色抱抱枕。如果你想知道怎么稳定生成反面，试试加一个{{{NSFW}}}。
@@ -105,6 +89,13 @@ Charcoal sketching
 album cover
 ```
 ![image](../pic_stoarge/NovelAi%20pic/%7B%7Balbum%20cover%7D%7D%20s-674332815.png)
+
+```
+# 颜色渐变
+# 这个的用法比较多，可以做渐变的背景/衣服/头发/光效等等
+Colour gradient
+```
+![image](../pic_stoarge/NovelAi%20pic/Colour%20gradient%20s-1302923996.png)
 
 ## 一些调整微表情的片段
 
@@ -231,15 +222,34 @@ cthulu
 ```
 ![image](../pic_stoarge/NovelAi%20pic/cthulu%20s-4209023468.png)
 
+## 人物动作/姿势/角度/画面框选关键词
+
+```
+# 同一张图有多个姿势的草稿。
+# 使用anatomy（解剖学）会在同一张上产出多个姿势，dynamic pose会加重不同“姿势”的权重，sketch则产出草稿风。如果嫌默认配置生成的姿势不够多，可以把画面尺寸调成横版。
+Dynamic pose, sketch, anatomy 
+```
+![image](../pic_stoarge/NovelAi%20pic/%7B%7BDynamic%20pose,%20sketch,%20anatomy%20%7D%7D%20s-4032864350.png)
+```
+# 动态角度，会产出比较超出常规姿势角度的图。
+# 可以在想要调整人物角度的时候跟着姿势关键词一起加进去增加姿势权重（比如一些背身回头看之类的），也可以在毫无灵感的时候加进去看看会不会有奇妙的结果产出。
+Dynamic angle
+```
+
+```
+# 动态躺姿。
+# 适合在尝试生成躺姿的时候使用。建议使用横版（landscape）产出图片。不然容易生成多个躺姿。
+dynamic lying down pose
+```
+![image](../pic_stoarge/NovelAi%20pic/%7B%7Bdynamic%20lying%20down%20pose%7D%7D%20s-2486858854.png)
+
 ## 一些整句
 
 ```
 # 先堆在这里后续会整理的
 
-HP lovecraft the outer gods awaken, black and white pencil drawing, masterpiece,  cosmic horror, lovecraftian horror, eldritch horror, cthulu, space, very detailed, detailed background,
-HP 洛夫克拉夫特外神觉醒，黑白铅笔画，杰作，宇宙恐怖，洛夫克拉夫特恐怖，诡异恐怖，克苏鲁，空间，非常详细，详细的背景，
-
 {Colour gradient,B&W colour mesh,high contrast,brown sketch,yellow shade,reflection in ground,glitch effect,shattered screen,Cyberpunk dystopian city,dark night, light rays, glow on edge}}}},1girl:white hair,blue eyes,white jacket,bare shoulder,slender legs,tall,hair split colour,exposed stomach,medium boobs,fight stance,holding sword,purple aura around sword,electric in sky,energy balls 
+{颜色渐变，黑白彩色网格，高对比度，棕色素描，黄色阴影，地面反射，故障效果，破碎屏幕，赛博朋克反乌托邦城市，黑夜，光线，边缘发光}}}}，1girl：白发，蓝眼睛,白上衣,露肩,修长双腿,高挑,发色,露肚,中胸,格斗,持剑,剑身紫气,天电,能量球
 
 {{{vaporwave}}}, {{neon lights}}, from below, looking down, cityscape, {{neon palette}}, starry sky, night sky, galaxy, skyscraper, on roof, 1girl, red cape, {torn cape}, black gloves, ankle boots, shorts, sitting, hands on feet, small breasts, white hair, short hair, spiky hair, brown eyes, detailed background
 
