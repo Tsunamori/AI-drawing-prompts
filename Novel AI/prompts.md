@@ -101,7 +101,7 @@ album cover
 
 **因为涉及人物表情所以为了稳定产出，一概使用“1girl, {{关键词}}, close-up, detailed face”（close-up是拉近距离，detailed face增加脸部权重），方便观察表情**
 
-（本来是想分个喜怒哀惧爱恶欲的但是就个人体验来说这样分对于AI来说太细了，不一定能稳定产出。微表情这块其实挺难精准达到想要的效果，我们就简单以表情分类，不研究人物心理，不研究假笑boy。）
+（本来是想分个喜怒哀惧爱恶欲的,但是就个人体验来说,这样分对于AI来说太细了，不一定能稳定产出。微表情这块其实挺难精准达到想要的效果，我们就简单以表情分类，不研究人物心理，不研究假笑boy。）
 
 ### 喜/乐
 
@@ -111,6 +111,31 @@ smile/smling
 ```
 ![image](../pic_stoarge/NovelAi%20pic/1girl,%20%7B%7Bsmile%7D%7D,%20close-up,%20detailed%20face%20s-2116702852.png)
 
+```
+# 浅笑
+light smile
+```
+![image](../pic_stoarge/NovelAi%20pic/1girl,%20%7B%7Blight%20smile%7D%7D,%20close-up,%20detailed%20face%20s-3299643682.png)
+
+```
+# 邪恶的微笑
+# 要注意这里因为有个evil的关系，很大概率会影响人物，使人物带恶魔元素或者变难看。
+evil smile
+```
+![image](../pic_stoarge/NovelAi%20pic/1girl,%20%7B%7Bevil%20smile%7D%7D,%20close-up,%20detailed%20face%20s-4044761314.png)
+
+![image](../pic_stoarge/NovelAi%20pic/1girl,%20a%20wizard%20with%20elf%20ears,%20%7B%7Bevil-smile%7D%7D,%20detailed%20face,%20flat%20chest,%20s-3123759469.png)这里多加了一些人物设定的关键词，减轻了evil可能会导致的恶魔元素（做成平熊是防止看起来太涩涩）
+
+```
+# 一些关于smile的看不出特点但可以用的tag，兴许就玄学呢
+
+false smile # 假笑
+smiley face # 笑脸
+nervous smile # 紧张的微笑，这个通过实验来看比上面那个更像假笑
+crazy smile # 疯狂的微笑，没看出很疯狂但确实很露齿
+forced smile # 苦笑，没看出来
+sad smile # 悲伤的微笑，有一点但不多
+```
 ```
 # 普通的露齿而笑
 laugh/laughing
@@ -132,12 +157,12 @@ pensive
 
 ### 面无表情
 
-（为什么要单独分类呢因为我觉得应该很有需求，毕竟面无表情的绘画作品很多。）
+（为什么要单独分类呢因为我觉得应该很有需求，毕竟面无表情/板着脸的绘画作品很多。）
 
 ```
 emotionless
 ```
-
+![image](../pic_stoarge/NovelAi%20pic/1girl,%20%7B%7Bemotionless%7D%7D,%20close-up,%20detailed%20face%20s-558398365.png)
 
 
 ## 一些不同风景的片段
