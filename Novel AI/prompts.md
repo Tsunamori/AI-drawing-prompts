@@ -441,6 +441,21 @@ A 18th century painting, {{{cityscape}}}, {{{{town}}}}, {{street}}, structures, 
 NAI Diffusion Anime (Full)
 
 Steps 28, Scale 11
+
+masterpiece, best quality, upscaled, facing viewer, mature woman, slim build, body glow, medium bust, green eyes, blonde hair, flowing locks, divine traits, plump lips, light rosiness, embroidered fabrics, antique fashion, hardcrafted jewelry, handcrafted hair ornament, depth of field, regal setting, golden city, stained glass, liturgical palace, ornately etched architecture, golden interior, arches, marble columns, blossom, level horizon, sunset, lush garden, god rays, hair ornaments, fantasy
+
+Steps:30 Scale:15 
+
+1024 x 512 and 1280 x 768 
+
+k_euler_ancestral
+
+highly detailed, {{STUDIO TRIGGER}},  character focus, cyberpunk, 90s, limited palette, multicolored background, retro style,  magazine, dynamic angle, movie poster, neon, beautifully detailed, 1girl, solo, small petite, lips, DJ, surreal, wildstyle, graffiti,  thick thighs, highly detailed harujuku outfit, stylish, HD light pink eyes, highly detailed textured shine multicolored rainbow hair, highly detailed textured shine red highlights, calternate street fashion, olorful, headphones, spray paint, puffy hair, alternate hairstyle, dancing, ink splashing, color splashing, color ink wash painting, {{BEST QUALITY}}, {{HD}}, {{MASTERPIECE}}, {{HIGH RES}}, {{CINEMATIC LIGHTING}}, {{GOOD ANATOMY}}, {{DETAILED}},  {{TELEPHOTO LENS}},  {{PIXIV CONTEST WINNER}}, {goddess}, {divine}, {{fullbody}}, {{CARTOONY}}
+
+masterpiece, best quality, ultra-detailed, extremely detailed 8k wallpaper, amazing, fantasy, angelic, innocent, pure, halo, angelarium {{multiple white angel wings}}, {{an extremely beautiful detailed girl}}, messy long white hair, slim legs, medium breasts, white cloth, ascended, aura of light, {beautiful detailed eyes}, caustics, depth of field, dramatic angle, cinematic lighting, extremely detailed, gate of heaven, paradise, 
+
+
+{masterpiece},illustration,beautiful detailed,colourful,finely detailed,dramatic light,intricate details,focus face,{focus character},detailed scenery,1 girl, white hair,long hair,red eyes,floating hair,disheveled hair,white shirt,pink dolphin shorts, Hidden in the light pink flowers, cumulonimbus capillatus,There are many scattered luminous petals, Depth of field,Many flying drops of water,Upper body exposed,Many scattered leaves,branch, angle,contour deepening,cinematic angle,{{{Classic decorative border}}}
 ```
 
 
