@@ -1,19 +1,32 @@
 # NovelAI prompts
 
 **目录：**
-1. [画面质量关键词](#一些提升画面质量的片段)
-2. [画面风格/色调/滤镜关键词](#画面风格色调滤镜关键词)
-3. [人物表情关键词](#一些调整微表情的片段)
-4. [风景/静物/非人关键词](#风景静物非人关键词)
-5. 光影/打光/阴影关键词
-6. 人物外貌/服装/种族/设定关键词
-7. 人物背景搭配/魔法特效/背景装饰关键词
-8. [人物动作/姿势/角度/画面框选关键词](#人物动作姿势角度画面框选关键词)
-9. [还没整理分类或者组合很有意思的整句](#一些整句)
+- [NovelAI prompts](#novelai-prompts)
+  - [一些提升画面质量的片段](#一些提升画面质量的片段)
+  - [画面风格/色调/滤镜关键词](#画面风格色调滤镜关键词)
+  - [一些调整微表情的片段](#一些调整微表情的片段)
+    - [喜/乐](#喜乐)
+    - [怒/恶](#怒恶)
+    - [哀](#哀)
+    - [惧](#惧)
+    - [面无表情](#面无表情)
+  - [风景/静物/非人关键词](#风景静物非人关键词)
+    - [风景](#风景)
+    - [静物](#静物)
+    - [非人](#非人)
+    - [画面角度](#画面角度)
+  - [人物背景搭配/魔法特效/装饰细节关键词](#人物背景搭配魔法特效装饰细节关键词)
+  - [人物描述关键词](#人物描述关键词)
+    - [衣服](#衣服)
+    - [外貌特征](#外貌特征)
+    - [姿势角度](#姿势角度)
+    - [画面框选部分](#画面框选部分)
+  - [一些整句](#一些整句)
+  - [reference](#reference)
 
 **关于符号对prompts的影响和调整，见[wiki](https://naidb.miraheze.org/wiki/Image_Generation)**
 
-**为了展示效果，非整句的关键词样图如无其它备注的话，都是以且仅以{{关键词}}来生成的。**
+**为了展示效果，非整句的关键词样图如无其它备注的话，都是以且仅以"关键词"来生成的。**
 
 **样图自带metadata，可以下载原图并导入novelAI使用prompts或配置**
 
@@ -52,6 +65,9 @@ Sketch, paper
 # 黑白风/素描
 # 看起来更像是加了黑白滤镜的效果
 black and white pencil drawing
+# 一些其它可以产出黑白的词条：
+B&W colour mesh,
+high contrast
 ```
 ![image](../pic_stoarge/NovelAi%20pic/black%20and%20white%20pencil%20drawing%20s-2015795017.png)
 
@@ -96,6 +112,35 @@ album cover
 Colour gradient
 ```
 ![image](../pic_stoarge/NovelAi%20pic/Colour%20gradient%20s-1302923996.png)
+
+```
+# 整体色调阴影
+[one color] shade
+# 样例：yellow shade
+```
+![image](../pic_stoarge/NovelAi%20pic/yellow%20shade,%20s-129957868.png)
+
+[赛博朋克和它的衍生们](https://en.wikipedia.org/wiki/Cyberpunk_derivatives)
+
+(sad,novalAI的素材好像支持最好的是赛博朋克，其它的基本全军覆没)
+
+```
+# 赛博朋克
+Cyberpunk
+```
+![image](../pic_stoarge/NovelAi%20pic/Cyberpunk,%20s-1762011332.png)
+
+```
+# 蒸汽朋克
+Steampunk
+```
+![image](../pic_stoarge/NovelAi%20pic/Steampunk,%20s-3354224302.png)
+
+```
+# 蒸汽波
+vaporwave
+```
+![image](../pic_stoarge/NovelAi%20pic/vaporwave,%20s-2265689039.png)
 
 ## 一些调整微表情的片段
 
@@ -177,6 +222,18 @@ emotionless
 # 峡谷
 canyon
 ```
+```
+# 城市
+cityscape/city
+```
+![image](../pic_stoarge/NovelAi%20pic/cityscape,%20s-3048376651.png)
+
+```
+# 星空
+starry sky
+```
+![image](../pic_stoarge/NovelAi%20pic/starry%20sky,%20s-1854995995.png)
+
 ### 静物
 ```
 # 徽章/家徽
@@ -186,6 +243,12 @@ Orcish {coat of arms}, gold and red, metallic, golden engraved boar heads, silve
 兽人{徽章}，金色和红色，金属，金色雕刻的野猪头，银色雕刻的红树林
 ```
 ![image](../pic_stoarge/NovelAi%20pic/Orcish%20%7Bcoat%20of%20arms%7D,%20gold%20and%20red,%20metallic,%20golden%20engraved%20boar%20heads,%20silver%20engraved%20mangrove%20trees%20s-761753710.png)
+
+```
+# 霓虹灯
+neon lights
+```
+![image](../pic_stoarge/NovelAi%20pic/neon%20lights,%20s-1586439476.png)
 
 ### 非人
 
@@ -222,7 +285,65 @@ cthulu
 ```
 ![image](../pic_stoarge/NovelAi%20pic/cthulu%20s-4209023468.png)
 
-## 人物动作/姿势/角度/画面框选关键词
+### 画面角度
+
+```
+# 从下方往上看的视角
+from below
+```
+![image](../pic_stoarge/NovelAi%20pic/from%20below,%20s-1719211647.png)
+
+## 人物背景搭配/魔法特效/装饰细节关键词
+
+```
+# 地面/水面反射
+reflection in ground/water
+```
+![image](../pic_stoarge/NovelAi%20pic/reflection%20in%20ground,%20s-1683416862.png)
+
+```
+# 毛刺效应
+glitch effect
+```
+![image](../pic_stoarge/NovelAi%20pic/glitch%20effect,%20s-2484071845.png)
+
+```
+# 破碎屏幕
+shattered screen
+```
+![image](../pic_stoarge/NovelAi%20pic/shattered%20screen,%20s-1266952460.png)
+
+```
+# 紫气
+purple aura
+样例： purple aura around sword
+```
+![image](../pic_stoarge/NovelAi%20pic/purple%20aura,%20s-155060.png)
+![image](../pic_stoarge/NovelAi%20pic/purple%20aura%20around%20sword,%20s-3472589764.png)
+
+```
+# 空中闪电
+electric in sky
+```
+![image](../pic_stoarge/NovelAi%20pic/electric%20in%20sky,%20s-3780352969.png)
+
+## 人物描述关键词
+
+### 衣服
+
+```
+# 露肩
+bare shoulder
+```
+![image](../pic_stoarge/NovelAi%20pic/bare%20shoulder,%20s-555448321.png)
+
+```
+# 露脐
+exposed stomach
+```
+### 外貌特征
+
+### 姿势角度
 
 ```
 # 同一张图有多个姿势的草稿。
@@ -243,6 +364,9 @@ dynamic lying down pose
 ```
 ![image](../pic_stoarge/NovelAi%20pic/%7B%7Bdynamic%20lying%20down%20pose%7D%7D%20s-2486858854.png)
 
+
+### 画面框选部分
+
 ## 一些整句
 
 ```
@@ -252,6 +376,7 @@ dynamic lying down pose
 {颜色渐变，黑白彩色网格，高对比度，棕色素描，黄色阴影，地面反射，故障效果，破碎屏幕，赛博朋克反乌托邦城市，黑夜，光线，边缘发光}}}}，1girl：白发，蓝眼睛,白上衣,露肩,修长双腿,高挑,发色,露肚,中胸,格斗,持剑,剑身紫气,天电,能量球
 
 {{{vaporwave}}}, {{neon lights}}, from below, looking down, cityscape, {{neon palette}}, starry sky, night sky, galaxy, skyscraper, on roof, 1girl, red cape, {torn cape}, black gloves, ankle boots, shorts, sitting, hands on feet, small breasts, white hair, short hair, spiky hair, brown eyes, detailed background
+{{{vaporwave}}}，{{霓虹灯}}，从下面，俯视，城市景观，{{霓虹调色板}}，星空，夜空，星系，摩天大楼，屋顶，1girl，红色斗篷，{撕裂斗篷}, 黑色手套, 及踝靴, 短裤, 坐着, 手放在脚上, 小乳房, 白发, 短发, 尖尖的头发, 棕色的眼睛, 详细的背景
 
 Upper body of beautiful female and lower body as long slender tail, covered in small scales and fins, mermaid, monster girl, 1girl
 
