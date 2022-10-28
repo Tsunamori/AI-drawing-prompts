@@ -6,6 +6,10 @@
 2. 一些还未分类的整句收录
 3. 一些其它研究
 
+**关于符号对prompts的影响和调整，见[wiki](https://naidb.miraheze.org/wiki/Image_Generation)**
+
+**样图自带metadata，可以下载原图并导入novelAI使用prompts或配置**
+
 ## reference
 
 1. [官方discord](https://discord.gg/42VT8pw9)
