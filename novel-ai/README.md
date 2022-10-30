@@ -18,3 +18,7 @@
 4. [胧雨夜NovelAI](https://www.yuque.com/longyuye/lmgcwy/)
 5. （**NSFW Warning**）[训练集来源danbooru](https://danbooru.donmai.us/)
 6. [某位韩国玩家的prompt收录集](https://docs.google.com/document/d/11sb3AOCE4B5CZeMELNL8PwWoIae2jkrdcz-UEJw\_Ayc/edit)
+
+### 一些准备做的研究
+
+low scale对画面的影响

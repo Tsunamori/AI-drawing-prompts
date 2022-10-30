@@ -114,4 +114,74 @@ k_euler_ancestral
 highly detailed, {{STUDIO TRIGGER}},  character focus, cyberpunk, 90s, limited palette, multicolored background, retro style,  magazine, dynamic angle, movie poster, neon, beautifully detailed, 1girl, solo, small petite, lips, DJ, surreal, wildstyle, graffiti,  thick thighs, highly detailed harujuku outfit, stylish, HD light pink eyes, highly detailed textured shine multicolored rainbow hair, highly detailed textured shine red highlights, calternate street fashion, olorful, headphones, spray paint, puffy hair, alternate hairstyle, dancing, ink splashing, color splashing, color ink wash painting, {{BEST QUALITY}}, {{HD}}, {{MASTERPIECE}}, {{HIGH RES}}, {{CINEMATIC LIGHTING}}, {{GOOD ANATOMY}}, {{DETAILED}},  {{TELEPHOTO LENS}},  {{PIXIV CONTEST WINNER}}, {goddess}, {divine}, {{fullbody}}, {{CARTOONY}}
 masterpiece, best quality, ultra-detailed, extremely detailed 8k wallpaper, amazing, fantasy, angelic, innocent, pure, halo, angelarium {{multiple white angel wings}}, {{an extremely beautiful detailed girl}}, messy long white hair, slim legs, medium breasts, white cloth, ascended, aura of light, {beautiful detailed eyes}, caustics, depth of field, dramatic angle, cinematic lighting, extremely detailed, gate of heaven, paradise, 
 {masterpiece},illustration,beautiful detailed,colourful,finely detailed,dramatic light,intricate details,focus face,{focus character},detailed scenery,1 girl, white hair,long hair,red eyes,floating hair,disheveled hair,white shirt,pink dolphin shorts, Hidden in the light pink flowers, cumulonimbus capillatus,There are many scattered luminous petals, Depth of field,Many flying drops of water,Upper body exposed,Many scattered leaves,branch, angle,contour deepening,cinematic angle,{{{Classic decorative border}}}
+
+{{{{{{{{{masterpiece}}}}}}}}}, {{{{{{best quality}}}}}}, {{{cinematic lighting}}}, {{{raytracing}}}, {{{volumetric lighting}}}, {{{incredibly absurdres}}}, {{{extreme detail}}}, {{{photorealistic}}}, {{{vivid colors}}}, 1girl, sexy, perfect body, large bust, detailed eyes, detailed lips, detailed long dark hair, {mature smiling face}, {{red flower wreath}}, {{white embroidered shirt}}, {{red flared embroidered skirt}}, {{{red and black embroidery}}}, {{wheat field}}, {{blue sky}}  马一下衣服
+
+masterpiece, {{illustration}}, aestheticism, watercolor, cygames, high contrast, {{{1girl}}}, character focus, side view, frilled dress, light shaft, beautiful detailed eyes, ambient lights, frosted effect, golden butterflys, botanical garden,
+low_saturation_background
+ scale 3.5
+
+((masterpiece)), (((best quality))), ((ultra-detailed)), ((illustration)), ((an extremely delicate and beautiful)), blond wavy hair, red eyes, alchemist, white dress with rose, divination room, 1girl ,((breeze)),floating hair,(sit),(magic circle),hair flower, illustration, lolita , sunlight, detailed eyes, lily, {silver and gold palace background},dramatic angle,  收录一下背景和头发
+
+{{{{{1 girl}}}}}, {{{cyberpunk jacket}}}, large breasts, {{{{{pale skin}}}}}, {{{cyberpunk hair, dynamic angle, tired expression, mascara, long eyelashes, eyeliner, pink hair, {{cyborg eyes}}}, reflective eyes, short hair, long bangs, messy hair, {{cyberpunk hair ornament}}, inside cyberpunk store, {{{{{{{{masterpiece}}}}}}}}}, {{{{{{best quality}}}}}}, {{{cinematic lighting}}}, {{{raytracing}}}, {{{volumetric lighting}}}, {{{incredibly absurdres}}}, {{{extreme detail}}}, {{{slit pupils}}}, {{{intricate details}}}}, {{{{{beautiful detailed hair}}}}}, {{{{{beautiful detailed background}}}}}, {{{peak forehead}}}, {{neon lights}}, {{{Portraiture}}}, glowing eyes, shiny skin,  头发
+
+{{{masterpiece}}}, {{{best quality}}}, {{ultra-detailed}}, {illustration}, {{extremely delicate and beautiful}}, {1girl}, {solo}, beautiful detailed eyes, character focus, sfw, realistic, looking back, {{{textured hair}}}, {{{textured skin}}}, {{{textured eyes}}}, upper body, woman, black hair, straight hair, detailed face, brown eyes, chinese clothes, cherry blossoms, fazan hairpin,  头发装饰和背景
+
+Terrorist, oil paint, realistic, ruin, city landscape, pink sky  风景
+
+masterpiece, {{illustration}}, aestheticism, watercolor, cygames, shadowverse, high contrast, {{{1girl}}}, character focus, side view, light shaft, beautiful detailed eyes, ambient lights, frosted effect, golden butterflys, low_saturation_background
+
+ultra detailed colored etching portrait of an pirate captain princess wearing an intricate slops and a pirate hat, intricate design, Fashion portrait,  heavy skin texture. outlines, dramatic cinematic lighting, intimate portrait, moody rimlights, etching style of Kentaro Miura, {{masterpiece}}, black, red
+
+1girl, solo, masterpiece portrait, masterpiece, leaves, purple hair, blue eyes, {{{wavy hair}}}, short hair, blurry background, light particles, leaf background, foliage, dramatic shadows, dappled sunlight, light from behind, black blazer, green bowtie,
+
+
+{{{{4k}}}}, {{{{{{flower}}}}}}, {{{{{{{falling leaf}}}}}}}, {{{{{beautiful detailed face}}}}}, {{{{{glowing sky}}}}}, {{{bishoujo}}}, {{{{intricate details}}}},  {{detailed background}}, {{finely detailed}},{{white hair}}, {{blue eyes}}, {{short hair}}, {{{{floating hair}}}}, {{butterflies},{{{{masterpiece}}}}, {{{{{best quality}}}}}, {{{{{illustration}}}}}, {{{{{beautiful detailed girl}}}}}, {{{{beautiful detailed glow}}}}, {{{{beautiful detailed eyes}}}}, {{{{{highres}}}}}, {{{eyelashes}}}, {{{detailed}}}, {{{{{{{{high resolution illustraion}}}}}}}}, {{{{scenery}}}}, landscape, garden, {{{{{{{blue(sky)}}}}}}}, smile, {{standing}}, {{{scenery focus}}}, {{{{{{sunshine}}}}}}, {{{{detailed glow}}}}, {{{{{ultra-detailed}}}}}, {{{garden}}}, {{{{{{cloudy sky}}}}}}, {{{{{black dress girl}}}}}, {{{flower}}}, {{{{{black dress girl}}}}}, {{{{{off shoulder dress}}}}}, {{{{1girl}}}}, {{{black gloves}}}, {{{{{arms at sides}}}}},
+NAI Full ; 1280 x 704 ; euler_ancestral ; steps 28 ; scale 11 
+
+short hair,{masterpiece},illustration,beautiful detailed,colourful,finely detailed,dramatic light,intricate details,focus face,{focus character},detailed scenery,1 boy,handsome, white hair,black eyes,white wuxia clothes,white oriental robe,misty mountains, Depth of field,Many flying drops of water,Upper body exposed,Many scattered leaves,branch, angle,contour deepening,cinematic angle,Portrait of character              /scale 5 
+
+solo, 1girl, mature female, holding, crystal ball, Lise Deharme, pixiv sample, skeleton, armor, dark, underwater, bone, light particles, frozen, crying,
+
+{{By Rebecca Guay}},{{{{{🧚}}}}},{detailed face},{{{best quality}}},{{detailed hair}},{{{4k}}},{{volumetric lighting}},solo
+
+'queen coming out of water', vintage, 'japanese imperial style', detailed, intricate, 'flat color'
+
+{2girls}, {dynamic hair}, cinematic light, {{cinematic angle}}, {masterpiece}, {highres}, {best illustration}, {ultra detailed}, {{{girl1: red_eyes+red_hair+fire_magic+fire_particles}}}, {{{girl2: blue_eyes+blue_hair+ice_magic+ice_particles}}}, school uniform, expressionless, {{{{fire particles}}}}, (ice particles), {mage}, fighting stance, {{glowing eyes}}  少见的双人prompts
+
+a masterpiece {{{{{{movie scene}}}}}}, {{{{{{sunrise}}}}}}, {{{early morning glory}}}, Highlander, {{{{{{{{epic}}}}}}}}, {{gothic architecture}}, {{{{{{{a single tower}}}}}}}, {{{one old tower}}}, lonely tower, 1700's, 18th century, victorian, film grain, {{{{mountainous horizon}}}}, mountain range, {{Scotland}}, {{scottish highlands}}, moss, vegetation, {{{{{{grass}}}}}}, field, garden, {{{still life}}}, blue sky,  [[[[[[[[cityscape]]]]]]]], {{{{{{photorealistic}}}}}}, {{{{dramatic shadows}}}}, cinematic lighting, {{cinematic angle}}, {{{{hyperrealism}}}}, colorful, {{{{official art}}}}, {{{{{ultra-detailed}}}}}, high saturation, {{high contrast}}, lossless, backlighting, blending, light particles, light beam, light rays, fabulous, {{{beautiful}}} | {{{landscape}}}, outside, scenery, horizon, panorama,  {{{{majestic nature}}}}, {{{wallpaper}}}, {{{{{one clock tower}}}}}:0.4  风景
+
+{{{{{{{{{masterpiece}}}}}}}}, {{{{{{{{{{best quality}}}}}}}}}}, {{{{{{{{{{incredibly absurdres}}}}}}}}}}, {demon}, fantasy, {{{breathing fire}}}, crazy eyes, {{evil}}, detailed eyes, perfect eyes, no humans, symmetry
+Steps 28 Scale 8 Sampling k_lms
+
+{masterpiece},illustration,beautiful detailed,colourful,finely detailed,dramatic light,intricate details,focus face,{focus character},detailed scenery,1 girl, blue hair,long hair,blue eyes,black royal uniform,star earrings,black gloves,black skirt,{{Hidden in the light blue flowers}}, Depth of field,Many flying drops of water,Upper body exposed,Many scattered leaves,branch,hair between eyes:6|crossed bangs:4 angle,contour deepening,cinematic angle,{{{Classic decorative border}}}  穿着和装饰
+
+sitting on the windowsill, white hair, night, dark, tree, 1girl, medium breasts, grimace, moon, red leaves, wavy hair, long hair, facing away, black dress, sitting, red eyes, krenz cushart, bedroom  马背景
+
+Manga cover of Pretty anime girl smiles at you black sclera, {{{{{black sclera}}}}}, black eyes, black eye color, 1girl, detailed, very detailed, police uniform, tomboy, red hair, short hair,thick hair, colored sclera, solid eyes, masterpiece, best quality, anime, cover, manga cover,  马衣服
+
+{{{too many frills}}}, layered dress, gown, strapless, {{{leather corset}}}, {{{detached sleeves}}}, {{{hands behind back}}}, {large breasts}, {{{thin waist}}}, daiwa scarlet, tiara, {{{horse ears}}}, horse tail, {{{large tail}}}, light brown hair, very long hair, {hair flower}, red eyes, beautiful eyes, red eyeshadow, choker, {{{bell}}}, jewelry, curtains, window, {{{starry sky}}}, {{{milky way}}}, {{{nebula}}}, {{{shooting star}}}, {{{comet}}}, {moon}
+Steps 28
+Scale 11   
+
+{masterpiece},illustration,beautiful detailed,colourful,finely detailed,dramatic light,intricate details,focus face,{focus character},detailed scenery,1 girl,
+{{Hidden in the light pink flowers}},{{pink hiar}},twintails,purple eyes,black ribbon,black royal uniform,star earrings,white gloves,white skirt,
+blush,Disgust,hate,
+Depth of field,Many flying drops of water,Upper body exposed,Many scattered leaves,branch,
+angle,contour deepening,cinematic angle,forest
+
+masterpiece, best quality,  [[[[[[[[realistic]]]]]]]], [[[[[watercolor (medium)]]]]], {blackandwhite}, {{{wild}}}, digital, dynamic angle, 1girl, {{{fox girl}}}, [[[realistic]]] red eyes, {{{pixie cut}}}, {{{spread hair}}}, forehead, cute, adorable, [[[[[[[[gem]]]]]]]] choker, [[crystal earrings]], {{{unusually open eyes}}}, big eyes, looking at viewer, {staring}, seductive smile, head tilt, red facial war tattoos, {{{>:D}}}, {{{fangs}}}, sharp teeth
+Scale 8 and quality tags are great for the teeth (fangs + sharp teeth). The marks are "facial tattoos", "forehead" adds a mark on the forehead.
+
+ 1girl, floating hair, red eyes, serious, close-up, upper body, glowing eyes, eye focus, {{{{{seas}}}}}, {{{{{{{{geisya}}}}}}}}, {{machinaka}}, {{{hati ware}}}, {{{{{flamsyusya}}}}}, {{{{detailed blackflame}}}}, wind, {{{bubble}}}
+
+{{{granblue fantasy (style)}}}, {{{female, world war i, military uniform, posing, recruitment poster)}}}, Princess Wilhelmina, military nurse, military medic, red cross  海报和制服
+
+{{{{highres, detailed, masterpiece, illustration, best quality, 8k, beautiful detailed eyes}}}}, {{{semi realistic}}}, 1girl, medium breast, dynamic angle, dynamic pose, floating hair, yellow eyes, light green hair, bangs, ponytail, wuxian (the legend of luoxiaohei), talisman, floating object, aura, glowing, 
+
+{masterpiece},illustration,beautiful detailed,colourful,finely detailed,dramatic light, red hair,twintails,red eyes,floating hair,white dress,red frill,red ribbon,idol,magical girl,medium breasts,Hidden in the structure, Depth of field,Many flying drops of particle,Many scattered scrap iron,damaged street,wind,flame,night,cute, contour deepening,smile,{{{Classic decorative border}}},Starlight,star shape,
+
+1-{masterpiece},illustration,beautiful detailed,colourful,finely detailed,dramatic light,focus face,{focus character},detailed scenery,1 girl, pink hair,short hair,ahoge,pink eyes,loli,white dress,pink frill,pink gloves,{{pink skirt}},{{pink wings}},{{pink birds}}, idol,magical girl,small breasts,Hidden in the structure, Depth of field,Many flying drops of particle,Many scattered scrap iron,emotionless damaged street,night, damaged street,night,cute, contour deepening,smile,Starlight,star shape,     2-{masterpiece},illustration,beautiful detailed,colourful,finely detailed,dramatic light,focus face,{focus character},detailed scenery,1 girl, {{blue hair}},long hair,{{blue eyes}},hair over one eye,white dress,blue skirt,blue ribbon,silver Earrings,silver Necklace,a blue sapphire decorated in the middle of clothes, idol,magical girl,medium breasts,Hidden in the structure, Depth of field,Many flying drops of particle,Many scattered scrap iron,emotionless ice crystal texture wings,beautiful detailed glow,detailed ice,beautiful detailed water, damaged street,night,cute, contour deepening,smile,{{{Classic decorative border}}},Starlight,star shape,                                                                                                                             3-{masterpiece},illustration,beautiful detailed,colourful,finely detailed,dramatic light, red hair,twintails,red eyes,floating hair,white dress,red frill,red ribbon,idol,magical girl,medium breasts,Hidden in the structure, Depth of field,Many flying drops of particle,Many scattered scrap iron,damaged street,wind,flame,night,cute, contour deepening,smile,{{{Classic decorative border}}},Starlight,star shape,
+
+ Ocean waves, sun shining, pink clouds, stars, blurry, {{HQ}}, {{{{masterpiece}}}}
 ```
