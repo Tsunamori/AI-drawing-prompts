@@ -184,4 +184,18 @@ Scale 8 and quality tags are great for the teeth (fangs + sharp teeth). The mark
 1-{masterpiece},illustration,beautiful detailed,colourful,finely detailed,dramatic light,focus face,{focus character},detailed scenery,1 girl, pink hair,short hair,ahoge,pink eyes,loli,white dress,pink frill,pink gloves,{{pink skirt}},{{pink wings}},{{pink birds}}, idol,magical girl,small breasts,Hidden in the structure, Depth of field,Many flying drops of particle,Many scattered scrap iron,emotionless damaged street,night, damaged street,night,cute, contour deepening,smile,Starlight,star shape,     2-{masterpiece},illustration,beautiful detailed,colourful,finely detailed,dramatic light,focus face,{focus character},detailed scenery,1 girl, {{blue hair}},long hair,{{blue eyes}},hair over one eye,white dress,blue skirt,blue ribbon,silver Earrings,silver Necklace,a blue sapphire decorated in the middle of clothes, idol,magical girl,medium breasts,Hidden in the structure, Depth of field,Many flying drops of particle,Many scattered scrap iron,emotionless ice crystal texture wings,beautiful detailed glow,detailed ice,beautiful detailed water, damaged street,night,cute, contour deepening,smile,{{{Classic decorative border}}},Starlight,star shape,                                                                                                                             3-{masterpiece},illustration,beautiful detailed,colourful,finely detailed,dramatic light, red hair,twintails,red eyes,floating hair,white dress,red frill,red ribbon,idol,magical girl,medium breasts,Hidden in the structure, Depth of field,Many flying drops of particle,Many scattered scrap iron,damaged street,wind,flame,night,cute, contour deepening,smile,{{{Classic decorative border}}},Starlight,star shape,
 
  Ocean waves, sun shining, pink clouds, stars, blurry, {{HQ}}, {{{{masterpiece}}}}
+
+Chrome sphere, mirror reflection, forest, river stream  风景
+
+synthwave, official style, lolita fashion, {{{dithering}}}, pc-98 (style), character name
+
+1girl, {pink hair}, glossy hair, detailed face, lips, {{rose colored mirror shades sunglasses}}, {{pink-tinted eyeware, round glasses, flower field background, round glasses, {{rose tint, depth of field, sunlight, sparkle, lens flare, necklace, {{{{bubbles, rose bush, clouds
+
+ 1girl, solo, lying, adventurer,science fiction, robot armor, tubes, wires,drugs,cables, drugged, machinery,white hair, {{{messy hair}}}, {{side braid}}, white skin,{{{blue eyes}}}, {{{{{empty eyes}}}}}, side braid, medium breasts, flower in hair, {{{intricate details}}}, {{{detailed hair}}} , {{{cinematic lighting}}}, dazed, {{{@ @}}}, expressionless, mind control, looking down, {{{{{corruption}}}}}, wide shot, {{{mechanical parts}}},{{{{in container}}}}, disassembly, dirty, junk
+
+{{{{{{{{bishoujo}}}}}}}}, 1girl, {{{{best quality}}}}, {{{{asanagi}}}}, high resolution illustrtion, {masterpiece portrait}, intricated detail, beautiful eyes, parted lips, detailed face, cowgirl shot, glow focus on character, various pose, [[[1990sstyle]]], detailed scenery, {{outside border}}, {{twintails}}, white pupils, blush, pink hair, green eyes, flat chest, half-closed eyes, cinematic lighting, {{ultra detailed}}, {{intricate detailes}}, beautiful detailed glow, {{{blush}}}, {{{smile}}}, {{{shameful face}}}, {{slit pupils}}, hood, eyebrows
+
+Masterpiece, mecha, face showing, gender, dragon, haze, illustration, cinematic lighting and shadows, detailed, highres, portrait
+
+
 ```
