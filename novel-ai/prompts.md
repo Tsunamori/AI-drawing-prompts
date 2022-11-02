@@ -197,5 +197,11 @@ synthwave, official style, lolita fashion, {{{dithering}}}, pc-98 (style), chara
 
 Masterpiece, mecha, face showing, gender, dragon, haze, illustration, cinematic lighting and shadows, detailed, highres, portrait
 
+{{{{{masterpiece}}}}}, {{{official art}}}, {sketch}, 4k, {{{{{1girl}}}}}, {{{solo}}}, {{{{{young girl}}}}}, white high school uniform,  shoulder length hair, black hair, detailed face}=, detailed hands, {{parlor}}, blue eyes, bored look, clouds,  blue skies, rays of light, dust particles, dust, dust through light, shadows, windows, {{sofa}}, books, {bookshelves},  medium breasts, {sitting}, {wooden table}, {cinematic angle}, {ambient light}, {ambient particles}
 
+masterpiece,best quality,artbook,official art,ultra detailed, illustration,{{{1 girl}}},{{{solo}}},{{{wind}}},{{{dynamic angle}}},{{{15 years old}}},hairs between eyes,disheveled hair,messy hair,beautiful delicate eyes gradation,bokeh,blur,motion blur,glitch,cinematic lighting,{{{beautiful delicate lenz flare}}},beautiful delicate glow,beautiful delicate thick paint,{{{chubby}}},medium breasts,medium chest,{{{{{{gochuumon wa usagi desu ka}}}}}},slant eyes,purple eyes,dark blue hair,{{{chignon}}},red dress,frills,red ribbon,red ear rings,{{{white stockings}}},garter belt,{{{white lace}}},{{{red long skirt}}},white large top sleeves,beautiful detailed {{{{{{ballroom}}}}}},red petals in the air,{{{long bangs}}},{{{arms behind back}}},{{{{{{bowing}}}}}},sushi
+negative tags:
+logo,facial dysgraphia,nsfw,skin,2 girls,lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry,missing fingers,bad hands,missing arms, long neck, Humpbacked,big body,huge body,big breasts,big chest,panties
+
+platinum blonde hair, messy hair, swept bangs, closed eyes, light smile, character focus, male, black undershirt, fashion, streetwear, colorful, multicolored jacket, paint splatter shirt, multicolored shirt,  intricate details, masterpiece, best quality, detailed hands, clothes writing, dynamic angle, cinematic lighting, sitting on object, skyscraper, night sky, painting (medium), {{{card (medium), tarot}}}, detailed hair, hyper detail
 ```

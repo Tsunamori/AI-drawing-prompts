@@ -18,6 +18,9 @@
 4. [胧雨夜NovelAI](https://www.yuque.com/longyuye/lmgcwy/)
 5. （**NSFW Warning**）[训练集来源danbooru](https://danbooru.donmai.us/)
 6. [某位韩国玩家的prompt收录集](https://docs.google.com/document/d/11sb3AOCE4B5CZeMELNL8PwWoIae2jkrdcz-UEJw\_Ayc/edit)
+7. [元素法典系列](https://docs.qq.com/doc/DWHl3am5Zb05QbGVs?_t=1667358884518&u=10b6f6013bb4446b80f6842dd16ce273)
+8. [NAI-tags](https://zele.st/NovelAI/) (有时候会404)
+9. [faces-faces-faces](https://rentry.org/faces-faces-faces)
 
 ### 一些准备做的研究
 
