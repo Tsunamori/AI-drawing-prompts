@@ -36,7 +36,7 @@ Undesired Content:
 
 ![image](../pic_stoarge/NovelAi%20pic/masterpiece,%20%7Bbest%20quality%7D,%20Amazing,%20beautiful%20detailed%20eyes,%7B%7B%7B%7B1girl%7D%7D%7D%7D,%20fin%20s-4022740224.png)
 
-头发挑染其实也可以去掉了，影响不大，该挑染还是会挑染。由于各种头发flow的原因，所以头发也只能跟着飘动的颜色跑。不能做出碎屑和头发不一样的产物
+头发挑染其实也可以去掉了，影响不大，该挑染还是会挑染。由于各种头发flow的原因，所以头发也只能跟着飘动的颜色ab跑。不能做出碎屑和头发不一样的产物
 
 ![image](../pic_stoarge/NovelAi%20pic/masterpiece,%20%7Bbest%20quality%7D,%20Amazing,%20beautiful%20detailed%20eyes,%7B%7B%7B%7B1girl%7D%7D%7D%7D,%20fin%20s-3677403988.png)
 
