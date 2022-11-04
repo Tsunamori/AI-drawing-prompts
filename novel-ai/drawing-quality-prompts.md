@@ -10,3 +10,6 @@ masterwork
 ```
 一些细碎补充：
    关于best quality/high quality等其实还有其它quality关键词（但都偏向于降低质量，具体参照[wiki](https://naidb.miraheze.org/wiki/Image_Generation)）
+
+
+常用负面tag：`{{{ugly}}},{{{duplicate}}},{{morbid}},{{mutilated}},{{{tranny}}},mutated hands,{{{poorly drawn hands}}},blurry,{{bad anatomy}},{{{bad proportions}}},extra limbs, cloned face,{{{disfigured}}},{{{more than 2 nipples}}},{{{{missing arms}}}},{{{extra legs}}},mutated hands,{{{{{fused fingers}}}}},{{{{{too many fingers}}}}},{{{unclear eyes}}},lowers, bad anatomy, bad hands,text,error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality,jpeg artifacts, signature, watermark, username, blurry, bad feet, text font ui,malformed hands, long neck, missing limb,{mutated hand and finger},{long body},{mutation poorly drawn}, disfigured, malformed mutated, multiple breasts, futa, yaoi`

@@ -8,8 +8,11 @@
 {{{vaporwave}}}, {{neon lights}}, from below, looking down, cityscape, {{neon palette}}, starry sky, night sky, galaxy, skyscraper, on roof, 1girl, red cape, {torn cape}, black gloves, ankle boots, shorts, sitting, hands on feet, small breasts, white hair, short hair, spiky hair, brown eyes, detailed background
 {{{vaporwave}}}，{{霓虹灯}}，从下面，俯视，城市景观，{{霓虹调色板}}，星空，夜空，星系，摩天大楼，屋顶，1girl，红色斗篷，{撕裂斗篷}, 黑色手套, 及踝靴, 短裤, 坐着, 手放在脚上, 小乳房, 白发, 短发, 尖尖的头发, 棕色的眼睛, 详细的背景
 
-Upper body of beautiful female and lower body as long slender tail, covered in small scales and fins, mermaid, monster girl, 1girl
+1girl, Upper body of beautiful female and lower body as long slender tail, covered in small scales and fins, mermaid, monster girl,
+美人鱼上半身，下半身为细长尾巴，覆盖着小鳞片和鳍，美人鱼，怪物女孩，1girl
+
 Crewmate (amongus)
+
 ultra-realistic,{{{{by Wadim Kashin}}}},doujin cover,dynamic angle,detailled hair,absurdres,cinematic lighting,intricate details,portrait of {{{{yae miko (genshin impact)}}}} looking at viewer with a sly smile,sakura garden,pink hair,purple eyes,danbooru
 Curated model
 50 steps, 8 scale
@@ -204,4 +207,10 @@ negative tags:
 logo,facial dysgraphia,nsfw,skin,2 girls,lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry,missing fingers,bad hands,missing arms, long neck, Humpbacked,big body,huge body,big breasts,big chest,panties
 
 platinum blonde hair, messy hair, swept bangs, closed eyes, light smile, character focus, male, black undershirt, fashion, streetwear, colorful, multicolored jacket, paint splatter shirt, multicolored shirt,  intricate details, masterpiece, best quality, detailed hands, clothes writing, dynamic angle, cinematic lighting, sitting on object, skyscraper, night sky, painting (medium), {{{card (medium), tarot}}}, detailed hair, hyper detail
+
+Fall, autumn , lily of the valley, river, watercolor, sketch
+
+{{{{masterpiece}}}}, {{{{photorealistic}}}}, {{cinematic lighting}}, {{{{realistic face}}}}, {{{{{detailed sky}}}}}, {{dynamic pose}}, depth of field, {{{{{bokeh}}}}}, {{{{{male}}}}}, {{{{{{{boy}}}}}}}, {{{short hair}}}, messy hair, {black hair}, harsh light, solo, baggy clothes, windy, billowing clothes, valley, hills, forest, {{raincoat}}, damp clothes, raining, {{{{{{{{{very wide shot}}}}}}}}}, droplets, {{{hooded}}}, {{{looking away}}}, {{{{{vanishing point}}}}}, {{{atmospheric perspective}}}, [[ lens flare]], [[shooting star]], {{black cloud}}, [[[orange sky]]], [[rainbow]]
+
+
 ```

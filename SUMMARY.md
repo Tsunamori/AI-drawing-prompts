@@ -7,6 +7,7 @@
   * [风景/静物/非人](novel-ai/landscape-things-inhuman.md)
   * [人物描述](novel-ai/character-description.md)
     * [衣物关键词研究](novel-ai/upper-clothes.md)
+    * [半人物种研究](novel-ai/half-man.md)
   * [微表情](novel-ai/facial-expression.md)
   * [人物背景搭配/魔法特效/装饰细节](novel-ai/special-effects.md)
   * [未整理的整句](novel-ai/prompts.md)
