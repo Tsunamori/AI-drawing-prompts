@@ -10,6 +10,7 @@
     * [半人物种研究](novel-ai/half-man.md)
   * [微表情](novel-ai/facial-expression.md)
   * [人物背景搭配/魔法特效/装饰细节](novel-ai/special-effects.md)
+    * [蝴蝶特效研究](novel-ai/butterflys.md)
   * [未整理的整句](novel-ai/prompts.md)
   * [咒语吟唱字节省略研究](novel-ai/prompt-combination.md)
     * [水墨-挑染-飘动](novel-ai/ink-dye-flow.md)
