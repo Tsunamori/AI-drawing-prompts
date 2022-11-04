@@ -8,11 +8,6 @@
 {{{vaporwave}}}, {{neon lights}}, from below, looking down, cityscape, {{neon palette}}, starry sky, night sky, galaxy, skyscraper, on roof, 1girl, red cape, {torn cape}, black gloves, ankle boots, shorts, sitting, hands on feet, small breasts, white hair, short hair, spiky hair, brown eyes, detailed background
 {{{vaporwave}}}，{{霓虹灯}}，从下面，俯视，城市景观，{{霓虹调色板}}，星空，夜空，星系，摩天大楼，屋顶，1girl，红色斗篷，{撕裂斗篷}, 黑色手套, 及踝靴, 短裤, 坐着, 手放在脚上, 小乳房, 白发, 短发, 尖尖的头发, 棕色的眼睛, 详细的背景
 
-1girl, Upper body of beautiful female and lower body as long slender tail, covered in small scales and fins, mermaid, monster girl,
-美人鱼上半身，下半身为细长尾巴，覆盖着小鳞片和鳍，美人鱼，怪物女孩，1girl
-
-Crewmate (amongus)
-
 ultra-realistic,{{{{by Wadim Kashin}}}},doujin cover,dynamic angle,detailled hair,absurdres,cinematic lighting,intricate details,portrait of {{{{yae miko (genshin impact)}}}} looking at viewer with a sly smile,sakura garden,pink hair,purple eyes,danbooru
 Curated model
 50 steps, 8 scale
