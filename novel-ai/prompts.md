@@ -211,5 +211,36 @@ Fall, autumn , lily of the valley, river, watercolor, sketch
 
 {{{{masterpiece}}}}, {{{{photorealistic}}}}, {{cinematic lighting}}, {{{{realistic face}}}}, {{{{{detailed sky}}}}}, {{dynamic pose}}, depth of field, {{{{{bokeh}}}}}, {{{{{male}}}}}, {{{{{{{boy}}}}}}}, {{{short hair}}}, messy hair, {black hair}, harsh light, solo, baggy clothes, windy, billowing clothes, valley, hills, forest, {{raincoat}}, damp clothes, raining, {{{{{{{{{very wide shot}}}}}}}}}, droplets, {{{hooded}}}, {{{looking away}}}, {{{{{vanishing point}}}}}, {{{atmospheric perspective}}}, [[ lens flare]], [[shooting star]], {{black cloud}}, [[[orange sky]]], [[rainbow]]
 
+two tone color,limited palette,{{{techwear}}}, {masterpiece},intricate details,solo,1 boy,handsome, black hair,short hair,blue eyes,blue armwears, holding sword,
+
+{{{{{masterpiece}}}}}, {{{{nahida}}}}, {1girl}, {solo}, {{{{dynamic hair}}}}, {{{masterpiece}}}, {{{beautiful detailed hands}}}, illustration,  {{cinematic light}}, ultra detailed, {{{{{disheveled hair}}}}}, {{{long_hair}}}, {{{flower hair ornament}}}, {{{green_eyes}}}, {{cross-shaped_pupils}}, {{symbol-shaped_pupils}}, {{petals}},{extremely detailed CG unity 8k wallpaper}, {{{only background}}},  {{masterpiece}}, {{{best quality}}}, {{ultra-detailed}}, {best illustration}, {best shadow}, {{an extremely delicate and beautiful}}, {{{dynamic angle}}}, {{{glow white particles}}}, {{cinematic light}}, {{{{pointy ears}}}}, {{{{green cloak}}}}, {{gradient_hair}}, {{hair_ornament}}, {{leaf_hair_ornament}}, {{long_hair}}, {{multicolored_hair}}, {{{white_hair}}}, {{{hair_between_eyes}}}, {{bracelet}}, {bare_shoulders}, {side_ponytail}, {{full_body}}
+
+{{{{official art}}}}, {{illustration}}, {{{beautiful detailed}}}, {{{best quality}}}, {{{highres}}}, {{wallpaper}}, {{{{detailed glow}}}}, {{{finely detailed}}}, {character focus}, solo, 1girl, {cute}, {{beautiful face}}, medium breasts, high ponytail, silver-white hair, long hair, blue eyes, bodysuit, {{{{mechanical wings (glowing)}}}}, galaxy background, {{{{stunning eyes}}}}, [mechanical halo], powerful impression, godess, [neon-paneled armor], intense angle, glow from behind, cinematic lighting, mythical being
+negative: lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, long body, glowing eyes, loli, {blur}, advertisement, logo
+sampler: k_lms  lower scale
+
+1girl, scar on cheek, red hair, {{single right braid}}, green eyes, {{wolf pelt coat on back}}, brooch, long tunic, animal tooth necklace, {{{tribal markings}}}, {medieval style}
+
+{masterpiece portrait of a beautiful teen}, {detailed matte painting}, gothic buildings, looking at viewer, victorian,  laces,  small breasts, looking back, black veil, armored bustier, grey eyes, bones, skull ornaments, skull shaped mask, {{{{style of art nouveau}}}}, art nouveau background, medieval enviroment, dark mood, chainmail, chains,, dramatic light, blonde wavy hair, black metal helmet with wings and golden floral engravings, feathers, cape, black armor, straps, face cover, metal mask,  head and shoulders portrait, 8k resolution concept art portrait by Greg Rutkowski, Artgerm, WLOP, Alphonse Mucha dynamic lighting hyperdetailed intricately detailed Splash art trending on Artstation triadic colors Unreal Engine 5 volumetric lighting
+
+{{{{{intricate details}}}}},{{sketch}},{{{{posca}}}}, {{{{{{{{{{2D}}}}}}}}}},watercolor,{{{soft}}},extremely detailed face, Delicate facial features,{{{{limited palette}}}}, High face detail, {{{{multicolored  pupils}}}},{{{{{{beautiful detailed eyes}}}}}},{{{Gradation eyes}}},soft eyes,sharp eyes, {masterpiece},illustration,colourful shadow,{{{colored inner hairshadow}}},  cute,out line,{{{{{{pixiv}}}}}},{{{{multicolored hair}}}},{{{{{detailed splash}}}}}, {{extremely fine and beautiful}}, {{perfect details}}, {unity CG 8K wallpaper}, intricate details,focus face,{focus character},detailed scenery, 1 girl,solo, {{cinematic light}},{{false color}},{{cinematic angle}},   {{white hair}},long hair,half backhair,Straight hair,light pink eyes,{{halter neck}}, black evening dress,hair ornament,moon Earring,{{purple ribbon}},star pattern, black legwear,black Gloves, smile, {{cute}},kind,
+
+{{{{{intricate details}}}}},{{sketch}},{{{{posca}}}}, {{{{{{{{{{2D}}}}}}}}}},watercolor,{{{soft}}},extremely detailed face, Delicate facial features,{{{{limited palette}}}}, High face detail, {{{{multicolored  pupils}}}},{{{{{{beautiful detailed eyes}}}}}},{{{Gradation eyes}}},soft eyes,sharp eyes, {masterpiece},illustration,colourful shadow,{{{colored inner hairshadow}}},  cute,out line,{{{{{{pixiv}}}}}},{{{{multicolored hair}}}},{{{{{detailed splash}}}}}, {{extremely fine and beautiful}}, {{perfect details}}, {unity CG 8K wallpaper}, intricate details,focus face,{focus character},detailed scenery, 1 girl,solo, {{cinematic light}},{{false color}},{{cinematic angle}},   pink hair,short hair,ahoge,pink eyes,loli,white dress,pink frill,pink gloves,{{pink skirt}},{{pink wings}},{{pink birds}},  idol,magical girl,small breasts,
+
+{{masterpiece}}, {{best quality}}, {extremely detailed CG unity 8k wallpaper}, {{{only background}}}, {{masterpiece}}, {{{best quality}}}, {{ultra-detailed}}, {best illustration}, {best shadow}, {{an extremely delicate and beautiful}}, {{cinematic light}}, ultra detailed, illustration, {detailed light},{{an extremely delicate and beautiful}},{beautiful detailed eyes}, {{{mechanical}}, masterpiece, messy hair, red with black streaked hair, solo, {{cinematic light}}, {{gradient_hair}}, {{hair_ornament}}, {{multicolored_hair}}, official art, laughing,
+
+1girl, shadow, red eyes, glowing eyes, ahoge, short hair, hair between eyes, sketch, speed lines, messy lines
+
+a giant underground city, cave, fantasy, medieval, atmospheric, people walking, streets, village, shops, waterfall
+
+drawing, 1girl, error, glitch, close-up, mechanical, cyberpunk, broken, detailed eyes
+
+https://www.ptsearch.info/articles/detail/16213
+
+https://www.ptsearch.info/home/
+
+highres, masterpiece, large cosmic sword impaled in vast landscape, in space, no humans,
+
+{{sketch}},{{soft}},{{{{{{{{{{2d}}}}}}}}}},{{{face shadow}}},{{webtoon}}, {{{{intricate details}}}},{{beautiful detailed}},{{colourful}},{{finely detailed}}, {{{masterpiece}}},{{illustration}},{{{{{{drawn by mochizuki kei}}}}}},{{limited palette}}, {{two-tone eyes}},{{{focus face}}},{{{{{{{{pixiv}}}}}}}}, {{{unity CG 8K wallpaper}}}, {{focus Character}}, {{colourful shadow}},   {{{1 girl}}},{{{solo}}},{{{{Mature}}}},  blonde hair,glow hair,long hair,yellow eyes,noble,medium breasts,gold,Cross,rosary,holy,Saintesswhite nun wear, white legwears,veil,  floating hair,{{ruins}},{{Tears}}},crying,8k,moon,Upper body exposed
 
 ```

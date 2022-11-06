@@ -21,6 +21,7 @@
 7. [元素法典系列](https://docs.qq.com/doc/DWHl3am5Zb05QbGVs?_t=1667358884518&u=10b6f6013bb4446b80f6842dd16ce273)
 8. [NAI-tags](https://zele.st/NovelAI/) (有时候会404)
 9. [faces-faces-faces](https://rentry.org/faces-faces-faces)
+10. [prompt-search](https://www.ptsearch.info/home/)
 
 ### 一些准备做的研究
 
