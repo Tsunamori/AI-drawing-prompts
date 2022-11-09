@@ -18,6 +18,9 @@ starry sky
 ![image](../pic_stoarge/NovelAi%20pic/starry%20sky,%20s-1854995995.png)
 
 ### 静物
+
+#### 物品
+
 ```
 coat of arms
 # 徽章/家徽
@@ -28,11 +31,19 @@ Orcish {coat of arms}, gold and red, metallic, golden engraved boar heads, silve
 ```
 ![image](../pic_stoarge/NovelAi%20pic/Orcish%20%7Bcoat%20of%20arms%7D,%20gold%20and%20red,%20metallic,%20golden%20engraved%20boar%20heads,%20silver%20engraved%20mangrove%20trees%20s-761753710.png)
 
+#### 室外布景
+
 ```
 neon lights
 # 霓虹灯
 ```
 ![image](../pic_stoarge/NovelAi%20pic/neon%20lights,%20s-1586439476.png)
+
+#### 室内布景
+
+卧室
+`bedroom, small apartment, skyscraper, science fiction, no humans, far future, futuristic, high tech`
+![image](../pic_stoarge/NovelAi%20pic/bedroom,%20small%20apartment,%20skyscraper,%20science%20fiction,%20no%20humans,%20far%20future,%20fu%20s-1866067500.png)
 
 ### 非人
 

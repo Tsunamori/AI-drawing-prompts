@@ -9,19 +9,11 @@
 {{{vaporwave}}}，{{霓虹灯}}，从下面，俯视，城市景观，{{霓虹调色板}}，星空，夜空，星系，摩天大楼，屋顶，1girl，红色斗篷，{撕裂斗篷}, 黑色手套, 及踝靴, 短裤, 坐着, 手放在脚上, 小乳房, 白发, 短发, 尖尖的头发, 棕色的眼睛, 详细的背景
 
 ultra-realistic,{{{{by Wadim Kashin}}}},doujin cover,dynamic angle,detailled hair,absurdres,cinematic lighting,intricate details,portrait of {{{{yae miko (genshin impact)}}}} looking at viewer with a sly smile,sakura garden,pink hair,purple eyes,danbooru
-
 Curated model
 50 steps, 8 scale
 
-Suzie, (唯@W: 1.1), {{{{{masterpiece}}}}}, {{{{best quality}}}}, {{arknights}}, 1girl, platinum hair, dark grey eyes, {{{smug}}}, medium bangs, {ponytail}, {{mole under eye}}, teenage, medium breasts, {glowing eyes}, hair between eyes, {{{{black hooded jacket}}}}, {{{{midriff peek}}}}, {{white shirt}}, black shorts, black pantyhose, {{{bandaged fingers}}}, {{{black fingerless gloves}}}, portrait, thigh pouch, {{{long sleeves}}}, {{black jacket partially removed}}, {{{black bulletproof vest}}}, waist pouches, {{{character sheet}}}, {{smirk}}
-
-Masterpiece, night sky in background, {scattered glowing turquoise butterflies}, green grass field, detailed background, vast, {{galaxy}}, cinematic lighting, dynamic angle
-杰作，背景夜空，{散落的发光绿松石蝴蝶}，绿草场，详细背景，广阔，{{星系}}，电影灯光，动态角度
-
-bedroom, small apartment, skyscraper, science fiction, no humans, far future, futuristic, high tech
-hetero, couple, 1boy, 1girl, white boy, black girl, orange wavy hair, green curly hair, interracial, man yellow skin, girl green skin, sun spirit, dryad,
-{large masterpiece, detailed anime, best quality, {cinematic light}, intricate details, dynamic angle, dynamic hair, {solo, 1girl}}, middle breasts, silver long hair, curly hair, {in aquarium : 3}, {{{{{{{bubbles}}}}}}}, sun light, darkness, white side slit dress, wet, from behind, hair focus, low angle, standing, in water, brilliant light, ruined castle, {{looking afar}}, {{{{bright white magic circle}}}}
 (broken robot),illustration,1girl,expressionless,cold attitude,,red pupils,short hair, white hair,beautiful detailed eyes,jacket, cracked floor,damaged classroom, beautiful sky, Mechanical girl,
+
 {dark-skinned female}, (sketch:1),limited palette,(watercolor:2.0),beautiful eyes, green eyes,{{hair flower ornament}},{detailed elegant white dress},white hair,elegant,hair between eyes,detailed scenery,{plant},front view,slightly realistic 0.1,medium hair,{focus character},hair bun,{{flower pattern}},smile,white flower, greenhouse garden,{flying beautiful butterflies}, french braid,{{wick on the shoulders}},focus face
 {{Sketch, limited palette, watercolor, ink splatter,sci fi background}}, 1girl, 1boy, girl with long blonde hair fighting using a sword,girl with long white jacket,red shirt, knee socks, boy wearing black suit fighting with a gun, 1boy vs 1girl, epic fight,night sky,light rays,shadow,reflection on floor,glitch effect,red and white aura
 glitter, Ophelia, suicide, rococco, red, orange, moths
