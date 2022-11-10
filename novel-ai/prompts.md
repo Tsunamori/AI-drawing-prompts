@@ -254,6 +254,12 @@ NP LQ+BA:{{{ugly}}},{{{duplicate}}},{{morbid}},{{mutilated}},{{{tranny}}},mutate
 
 {{1girl}}, solo, {realism}, {{sharp details}}, {{{game cg}}}, {{drawn by mochizuki kei}}, {character focus}, {{mature female}}, {{8k}}, {{intricate details}}, {unity cg wallpaper}, particles, {{masterpiece}}, original, {upper body}, {portrait}, illustration, cinematic lighting, dynamic angle
 
+science fiction, 1980's style, {cyberpunk}, {{masterpiece}}, {illustration}, female focus, cinematic angle, detailed scenery, depth of field,colorful, perfect details, dramatic light, focus face, focus character, neon lights, {{best quality}}, particles, dynamic lighting, cute, cyborg, white hair, messy hair, short hair, purple eyes, choker, medium breasts, teen, city, rifle, leotard, black shorts, open  jacket, night,
+
+Dark clouds showering blazing roots
+
+{{{masterpiece, best quality, illustration, extremely detailed CG unity 8k wallpaper, finely detailed, highly detailed, ultra-detailed}}}, {{{{white theme}}}}, 1girl, solo, {{{{loli, young, short}}}}, {{{blue eyes, narrow eyes, beautiful eyes, detailed pupil, expressive eyes, sparkling eyes}}}, {{{{{eye beam, eye trail, glowing eyes, eye shadow, woke}}}}}, {{{white hair, long hair, messy hair, frilled hair, spiked hair, swept bangs, medium bangs, floating hair, flowing hair}}} {{{white armored dress, armored shoulder, armored knee boots, white pantyhose, shining armor, intricate gold details, shining white veil, armored veil}}}, {{{{{character focus, portrait}}}}}, {{{sharp focus}}}, {{{chromatic aberration, caustic, hdr}}}, {{{floating on air}}}, {{{holy}}}, {{{facing toward viewer, looking at viewer, white shining light from behind, white dust, gold sparks, white sparkles, blue sparks, blue sparkles, white pillars}}}, golden clockwork, golden summoning circle behind, standing, clear outline, from below, menacing, expressionless, holy light,
+
 
 
 ```
