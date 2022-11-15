@@ -6,6 +6,11 @@ pixel art
 # 我见过有人在prompts里用pixel art生成过很好看的类似于像素风游戏那种场景，用处还是很大的，不要嫌样图丑。
 ```
 ![image](../pic_stoarge/NovelAi%20pic/%7B%7Bpixel%20art%7D%7D%20s-1775920509.png)
+
+```
+chibi
+# 没猜错的话是Q版风，但是这个是两头身的比例，基本固定了。
+```
 ```
 Sketch, paper
 # 草稿风。
