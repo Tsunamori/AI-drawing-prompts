@@ -311,6 +311,18 @@ girl, {{{petite}}}, {{pale}}, {{{gradient hair}}}, gradient eyes , {{{seductive}
 
 {++1girl}, {++solo}, {{{++illustration/}}},  ~{{cinematic light}}, +ultra detailed, ~{{{cyberpunk}}}, ~{{neon city}}, pink short hair, curly hair, pink eyes, ~expressionless, standing on rooftop, looking at another, night, ~{{{*glowing luminous colorful particles}}}, {shine}, {{{beautiful detailed sky}}}, {{hair flows upside}}, {{disheveled hair}}, middle breasts, ~{{{-milky way}}}, {+falling feathers}, {glow white particles}, {{cyberpunk style bodysuit}}
 
+Portrait of a Resigned looking thirty-year-old Man with Androgynous Features, Long Black Eyelashes, {{{{Emerald Cybernetic Eyes}}}}, Black Arched Eyebrows, Wide Short Nose, Pale, Full Lips, {{Red Hair}}, {{{{{{Very Long Wavy Hair}}}}}}, Upper Cheek Freckles, Cheek Scar, Ear Piercings, {{{{{{Eyeglasses}}}}}}, {{Black Turtleneck}}, 8K UHD, 300 DPI, Adobe Illustrator, Official Character Art, Studio Quality, Hyperrealistic Illustration, Hyperdetailed Illustration, Ultraprecise Illustration, Textured, Tessellation, Patterned Background, Abstract Geometric Background, Galaxy Background, Nebula Background, Textured Brush Strokes, Grainy Brush Strokes, Rough Brush Strokes, Artistic Brush Strokes, Aesthetic Brush Strokes, Artistic Lineart, Aesthetic Lineart, Distinctive Lineart, Hair Countours, Nib Pen, Marker, Coupy Pencil, White Ink Accents, Wide Black Contours, Artistic Shadows, Artistic Lighting, Perfectionism, Proportional, Accurate, Realism, Sketch Overlay, Portrait of a Military Spy, Science-Fiction, Mass Effect Game Character Art, by Victo Ngai
+UC:
+Double, Clone, Duo, Elf Ears, Undetailed Eyes, Lack of Eye Texture, Organic Eyes, Lack of Eye Cybernetics, Lack of Pupils, Unrealistic Piercings, Incomplete Piercings, Lack of Eye Definition, Lack of Piercing Definition, Unmatching Eyes, Unfinished  Piercings, Undefined Eyes, Incomplete Eyeglasses, Unfinished Eyeglasses, Missing Eyeglasses, Missing Piercings, Invisible Eyeglasses, Invisible Piercings, High Contrast, Imprecise, Imperfect, Unpublished, Unedited, Unrefined, Disproportionate, Deformed, Malformed, Unsymmetrical Eyeglasses
+
+1boy, {{{best quality, masterpiece, photorealistic, realistic shadows, realistic lighting, hyperdetailed, Ultimate quality}}}, Male focus, {{{platinum blonde hair, medium hair, blue eyes, pale skin, wearing a Victorian poet blouse}}}
+
+{1girl}, {{dynamic angle}}, {{dynamic pose}}, {{best quality}}, {{masterpiece}}, detailed, {highres}, {illustration}, adult female, blue and purple heterochromia, blue eyes, cherry blonde hair, {{mature female}}, long hair, purple eyes, coat, halo, expressionless, {{flat colors}}, {{limited palette}}, {{vivid colors}}, {{hypergeometric}}
+
+lymph
+
+{1girl}, {{dynamic angle}}, {{dynamic pose}}, {{best quality}}, {{masterpiece}}, detailed, {highres}, {illustration}, adult female, white hair, {{mature female}}, long hair, magic, coat, smiling, {cinematic light}, {{vivid colors}}, {{{trapeze artist}}}, circus, {{hypergeometric}}, red eyes, {glow white particles}, {{{blue and red colors}}}, performance, {{ribbons}}, beautiful shadows, beautiful detailed eyes, blue and red heterochromia, speed lines, facing viewer, dark background
+
 
 
 
