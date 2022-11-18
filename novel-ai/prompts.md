@@ -319,6 +319,6 @@ lymph
 
 {{{Dark shading}}}, {{{Detailed}}}, {{Looking at viewer}}, {{Moonlight lighting}}, {{{4K}}}, Girl, 28 years old, {{{{{Messy Messy hair}}}}}, {{{{Hair ruffles}}}}, {{{Long hair}}}, Curly light brown hair, swept fluffy bangs, off the shoulder, {{{poofy yellow sweater}}}, {{{small-medium breasts}}}, wide hips, curvy, {{{{{Bright purple eyes}}}}}, {{wide eyes}}, cute, walking, {{night city background}}  
 
-
+a royal wedding, medieval, fantasy, a crowd of people, dynamic style, interior, intricate, incredible detail, breathtaking, photorealistic, atmospheric, painted by the gods themselves, historic
 
 ```
