@@ -31,3 +31,7 @@ electric in sky
 # 空中闪电
 ```
 ![image](../pic_stoarge/NovelAi%20pic/electric%20in%20sky,%20s-3780352969.png)
+
+ribbons 丝带
+
+可以用作发绳也可以做装饰用长绸带

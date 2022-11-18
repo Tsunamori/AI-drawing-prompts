@@ -17,6 +17,9 @@ starry sky
 ```
 ![image](../pic_stoarge/NovelAi%20pic/starry%20sky,%20s-1854995995.png)
 
+Large cosmic mystic creature with near transparent wings floating in air, {scattered stars}, {{detailed background}}, cinematic lighting, masterpiece, intricate detail, {{{dramatic pose}}}, {{{dramatic angle}}}, galaxy cluster in background, grass field, night time
+![image](../pic_stoarge/NovelAi%20pic/Large%20cosmic%20mystic%20creature%20with%20near%20transparent%20wings%20floating%20in%20air,%20%7Bscatt%20s-2281036292.png)
+
 ### 静物
 
 #### 物品

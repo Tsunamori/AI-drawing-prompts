@@ -16,9 +16,8 @@ Curated model
 
 {{Sketch, limited palette, watercolor, ink splatter,sci fi background}}, 1girl, 1boy, girl with long blonde hair fighting using a sword,girl with long white jacket,red shirt, knee socks, boy wearing black suit fighting with a gun, 1boy vs 1girl, epic fight,night sky,light rays,shadow,reflection on floor,glitch effect,red and white aura
 
-Large cosmic mystic creature with near transparent wings floating in air, {scattered stars}, {{detailed background}}, cinematic lighting, masterpiece, intricate detail, {{{dramatic pose}}}, {{{dramatic angle}}}, galaxy cluster in background, grass field, night time
-{{{{{{{by Paul Hedley}}}}}}}, {{{{solo}}}}, {{{1girl}}}, {{{masterpiece}}}, digital_art, {{{{{{{{{knit_turtleneck_sweater}}}}}}}}}, {{{mature women}}}, {{{{{indigo_sweater}}}}}, {{{{friendly_dark_brown_eyes}}}}, {{short_Waves_hair}}}, {{{black_hair}}}, {{{{{{{{orange_pleated_skirt}}}}}}}}, {freckles}, {{{{{very_tiny_light_smile}}}}},  {{{hands open}}} 
 multicolored hair, 1girl, beautiful, small waist, realistic, ray tracing, red dress, tiara
+
 {{solo}}, {{{{{1girl}}}}}, {{{{{{{best quality}}}}}}}, {{{{masterpiece}}}}, {{{{{{{DETAILED}}}}}}}, {{{{extremely detailed}}}}, {{{{8K wallpaper}}}}, {1girl}, 
 brown eyes, glowing eyes, bright eyes, large eyes, short pink wavy hair, white head band, bangs, medium breasts, hair intakes, {{{{{loli}}}}},
 {{{white tank top}}}, {{{{pink buruma}}}},

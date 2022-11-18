@@ -20,8 +20,9 @@
 2. 红白
 
 
-### 蓝blue\azure
+### 蓝blue\azure\indigo
 
+(azure浅蓝、indigo靛蓝)
 
 1. 蓝白
 

@@ -35,3 +35,5 @@ rococco 洛可可
 
 卫衣 hoodie
 卫衣绳 2_hoodie_strings
+knit_turtleneck_sweater 针织高领毛衣
+pleated skirt 百褶裙
