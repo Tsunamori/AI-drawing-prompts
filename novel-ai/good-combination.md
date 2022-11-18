@@ -4,3 +4,6 @@
 
 `{large masterpiece, detailed anime, best quality, {cinematic light}, intricate details, dynamic angle, dynamic hair, {solo, 1girl}}, middle breasts, silver long hair, curly hair, {in aquarium : 3}, {{{{{{{bubbles}}}}}}}, sun light, darkness, white side slit dress, wet, from behind, hair focus, low angle, standing, in water, brilliant light, ruined castle, {{looking afar}}, {{{{bright white magic circle}}}}`  未研究，没啥特色，但是好看。
 ![image](pic_stoarge/NovelAi%20pic/%7Blarge%20masterpiece,%20detailed%20anime,%20best%20quality,%20%7Bcinematic%20light%7D,%20intricate%20d%20s-629388652.png)
+
+{dark-skinned female}, (sketch:1),limited palette,(watercolor:2.0),beautiful eyes, green eyes,{{hair flower ornament}},{detailed elegant white dress},white hair,elegant,hair between eyes,detailed scenery,{plant},front view,slightly realistic 0.1,medium hair,{focus character},hair bun,{{flower pattern}},smile,white flower, greenhouse garden,{flying beautiful butterflies}, french braid,{{wick on the shoulders}},focus face
+![image](../pic_stoarge/NovelAi%20pic/%7Bdark-skinned%20female%7D,%20sketch,limited%20palette,%7B%7Bwatercolor%7D%7D,beautiful%20eyes,%20gre%20s-2793054743.png)

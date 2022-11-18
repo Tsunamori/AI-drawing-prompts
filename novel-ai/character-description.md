@@ -1,19 +1,5 @@
 ## 人物描述关键词
 
-### 衣服
-
-```
-bare shoulder
-# 露肩
-```
-![image](../pic_stoarge/NovelAi%20pic/bare%20shoulder,%20s-555448321.png)
-
-```
-exposed stomach
-# 露脐
-```
-### 外貌特征
-
 ### 姿势角度
 
 ```

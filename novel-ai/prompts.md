@@ -14,13 +14,8 @@ Curated model
 
 (broken robot),illustration,1girl,expressionless,cold attitude,,red pupils,short hair, white hair,beautiful detailed eyes,jacket, cracked floor,damaged classroom, beautiful sky, Mechanical girl,
 
-{dark-skinned female}, (sketch:1),limited palette,(watercolor:2.0),beautiful eyes, green eyes,{{hair flower ornament}},{detailed elegant white dress},white hair,elegant,hair between eyes,detailed scenery,{plant},front view,slightly realistic 0.1,medium hair,{focus character},hair bun,{{flower pattern}},smile,white flower, greenhouse garden,{flying beautiful butterflies}, french braid,{{wick on the shoulders}},focus face
 {{Sketch, limited palette, watercolor, ink splatter,sci fi background}}, 1girl, 1boy, girl with long blonde hair fighting using a sword,girl with long white jacket,red shirt, knee socks, boy wearing black suit fighting with a gun, 1boy vs 1girl, epic fight,night sky,light rays,shadow,reflection on floor,glitch effect,red and white aura
-glitter, Ophelia, suicide, rococco, red, orange, moths
-hands-only, fingers, proper-anatomy.
-girl {blue_fade_to_gold_hair} big_hoodie real_diamond_earrings medium_lenght_hair 2_rabbit_ears chockers {{neon_city_background}} neon_city gold_and_purple_eyes 2_hoodie_strings cyberpunk steampunk gotchic
-1girl, hime cut, school uniform, hair over one eye, {black hair}, pale skin, breasts, long hair, multiple views, smirk, pantyhose, skirt lift, blazer
-Undesired: pointed ears, psychedelic, error, jpeg artifacts, pointed ears, helmet, extra digits, missing fingers, blush, monochrome
+
 Large cosmic mystic creature with near transparent wings floating in air, {scattered stars}, {{detailed background}}, cinematic lighting, masterpiece, intricate detail, {{{dramatic pose}}}, {{{dramatic angle}}}, galaxy cluster in background, grass field, night time
 {{{{{{{by Paul Hedley}}}}}}}, {{{{solo}}}}, {{{1girl}}}, {{{masterpiece}}}, digital_art, {{{{{{{{{knit_turtleneck_sweater}}}}}}}}}, {{{mature women}}}, {{{{{indigo_sweater}}}}}, {{{{friendly_dark_brown_eyes}}}}, {{short_Waves_hair}}}, {{{black_hair}}}, {{{{{{{{orange_pleated_skirt}}}}}}}}, {freckles}, {{{{{very_tiny_light_smile}}}}},  {{{hands open}}} 
 multicolored hair, 1girl, beautiful, small waist, realistic, ray tracing, red dress, tiara
@@ -323,7 +318,7 @@ lymph
 
 {1girl}, {{dynamic angle}}, {{dynamic pose}}, {{best quality}}, {{masterpiece}}, detailed, {highres}, {illustration}, adult female, white hair, {{mature female}}, long hair, magic, coat, smiling, {cinematic light}, {{vivid colors}}, {{{trapeze artist}}}, circus, {{hypergeometric}}, red eyes, {glow white particles}, {{{blue and red colors}}}, performance, {{ribbons}}, beautiful shadows, beautiful detailed eyes, blue and red heterochromia, speed lines, facing viewer, dark background
 
-
+{{{Dark shading}}}, {{{Detailed}}}, {{Looking at viewer}}, {{Moonlight lighting}}, {{{4K}}}, Girl, 28 years old, {{{{{Messy Messy hair}}}}}, {{{{Hair ruffles}}}}, {{{Long hair}}}, Curly light brown hair, swept fluffy bangs, off the shoulder, {{{poofy yellow sweater}}}, {{{small-medium breasts}}}, wide hips, curvy, {{{{{Bright purple eyes}}}}}, {{wide eyes}}, cute, walking, {{night city background}}  
 
 
 
