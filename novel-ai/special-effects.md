@@ -1,10 +1,6 @@
 ## 人物背景搭配/魔法特效/装饰细节关键词
 
-```
-reflection in ground/water
-# 地面/水面反射
-```
-![image](../pic_stoarge/NovelAi%20pic/reflection%20in%20ground,%20s-1683416862.png)
+
 
 ```
 glitch effect
@@ -32,6 +28,4 @@ electric in sky
 ```
 ![image](../pic_stoarge/NovelAi%20pic/electric%20in%20sky,%20s-3780352969.png)
 
-ribbons 丝带
-
-可以用作发绳也可以做装饰用长绸带
+chapel background 教堂背景

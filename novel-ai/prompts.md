@@ -16,23 +16,8 @@ Curated model
 
 {{Sketch, limited palette, watercolor, ink splatter,sci fi background}}, 1girl, 1boy, girl with long blonde hair fighting using a sword,girl with long white jacket,red shirt, knee socks, boy wearing black suit fighting with a gun, 1boy vs 1girl, epic fight,night sky,light rays,shadow,reflection on floor,glitch effect,red and white aura
 
-multicolored hair, 1girl, beautiful, small waist, realistic, ray tracing, red dress, tiara
+「」「」「」「」「」「」「」「」
 
-{{solo}}, {{{{{1girl}}}}}, {{{{{{{best quality}}}}}}}, {{{{masterpiece}}}}, {{{{{{{DETAILED}}}}}}}, {{{{extremely detailed}}}}, {{{{8K wallpaper}}}}, {1girl}, 
-brown eyes, glowing eyes, bright eyes, large eyes, short pink wavy hair, white head band, bangs, medium breasts, hair intakes, {{{{{loli}}}}},
-{{{white tank top}}}, {{{{pink buruma}}}},
-looking at viewer, {{{smile}}}, {{mouth open}},
-{{fluttered detailed splash}}, water splash, blurred background, gym, sweat, cherry blossom, 
-cinematic angle, cinematic lighting, {{{bokah}}}
-manhwa, 1girl,{{{masterpiece}}},{{{detail}}},{{{high resolution}}},ancient china, black detailed hair, black eyes, asian,Chinese,ancient Chinese clothes, white qipao,beautiful,alluring , holding paper umbrella,Ancient palace background
-Delicate facial features, {{blue_archive (Style)}}, best quality, detailed manga, detailed eyes, {cinematic light}, intricate details, dynamic angle, dynamic pose, dynamic hair, {solo, 1girl}}, night, milky way, window, white side slit dress, high hills, light silver hair, long curly hair, pink eyes, from above, eye focus, looking at viewer, star shaped hair cilp, crescent earring, standing, on bedroom
-1gil, white hair, long curls, long hair, braids, {{{{{frilly maid clothes}}}}}, detached sleeves, white sleeves, {{{{{{thorny roses}}}}}}, vines, petals, black choker, ribbon choker, red eyes, pale skin, kneehigh boots, {{{{{{{short skirt}}}}}}}, black boots, Shale armor boots, chapel background, soft light, standing, looking to side, medium breasts, cleavage, {{{{{Akihiko Yoshida}}}}}, {{{Leonid Afremov}}}
-1girl, pale skin, black hair, black eyes, neutral expression, white jacket, short hair, mature female, cyberpunk
-1girl, black suit, black tie, black hair, messy hair, round shades with red lenses, short hair, sketch face, sketch, rough shadows, manga style
-winter, elf, pale blue skin, pale blue eyes, pale blue curly hair, sad, full plate armor, winter engravings
-{{{danganronpa}}}, {{portrait}}, looking at viewer, facing forward, [CHARACTER NAME HERE]
-by_Wes_Anderson_propaganda_1girl
-{{{action scene of: passionately smile at viewer}}},upper body,{white short shirt},1girl,red headphones,red eyes, red necktie,{{{{black trousers}}}},two-tone hair,{{{black hair}}},{{white hair}},red shoes,{{manga illustration, black-and-white, masterpiece}}{{solo, 1girl}},intricate details, character focus,{{chainsaw man(style)}}, manga (chainsaw man), demon background,{{detailed background}},{scattered glowing turquoise butterflies},{{universal gods awaken}}, cosmic horror, eldritch horror, alternate universe
 {{{lalafell}}}, {{{too many frills}}}, layered dress, gown, strapless, {{{detached sleeves}}}, blonde hair, very long hair, {hair flower}, blue eyes, beautiful eyes, red eyeshadow, choker, {{{bell}}}, jewelry, curtains, window, {{{starry sky}}}, {{{full moon}}}
 {{{Mori calliope:4}}}
 2girls, outside, nature; red hair, long hair, sidelocks, blunt bangs, blue eyes, blush, pale skin, flat chest, grey hoodie, shorts, black leggings, brown footwear; black hair, black shorts, long hair, looking at viewer, shorts, tan, tank top, medium breasts, smile, ponytail, purple eyes

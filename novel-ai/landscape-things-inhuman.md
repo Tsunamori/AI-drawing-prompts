@@ -20,6 +20,8 @@ starry sky
 Large cosmic mystic creature with near transparent wings floating in air, {scattered stars}, {{detailed background}}, cinematic lighting, masterpiece, intricate detail, {{{dramatic pose}}}, {{{dramatic angle}}}, galaxy cluster in background, grass field, night time
 ![image](../pic_stoarge/NovelAi%20pic/Large%20cosmic%20mystic%20creature%20with%20near%20transparent%20wings%20floating%20in%20air,%20%7Bscatt%20s-2281036292.png)
 
+Ancient palace background （注意加中式/西式来定义）
+
 ### 静物
 
 #### 物品

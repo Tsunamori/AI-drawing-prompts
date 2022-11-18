@@ -67,5 +67,6 @@ crying
 
 ```
 emotionless
+neutral expression
 ```
 ![image](../pic_stoarge/NovelAi%20pic/1girl,%20%7B%7Bemotionless%7D%7D,%20close-up,%20detailed%20face%20s-558398365.png)

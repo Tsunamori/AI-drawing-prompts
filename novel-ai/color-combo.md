@@ -9,7 +9,7 @@
    1. ![黑皮绿瞳](../pic_stoarge/NovelAi%20pic/%7Bdark-skinned%20female%7D,%20sketch,limited%20palette,%7B%7Bwatercolor%7D%7D,beautiful%20eyes,%20gre%20s-2793054743.png)
 4. 
 
-### 白white\pale
+### 白white\pale\silver
 
 1. 白红
 2. 白黑（白发黑皮）

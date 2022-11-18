@@ -22,4 +22,13 @@ dynamic lying down pose
 ![image](../pic_stoarge/NovelAi%20pic/%7B%7Bdynamic%20lying%20down%20pose%7D%7D%20s-2486858854.png)
 
 
-### 画面框选部分
+### 画面框选部分/画面角度
+
+from above 从上方
+
+from below 从下方
+
+from left/right/aside 侧面看
+
+upper body 上半身
+

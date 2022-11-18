@@ -7,3 +7,9 @@
 
 {dark-skinned female}, (sketch:1),limited palette,(watercolor:2.0),beautiful eyes, green eyes,{{hair flower ornament}},{detailed elegant white dress},white hair,elegant,hair between eyes,detailed scenery,{plant},front view,slightly realistic 0.1,medium hair,{focus character},hair bun,{{flower pattern}},smile,white flower, greenhouse garden,{flying beautiful butterflies}, french braid,{{wick on the shoulders}},focus face
 ![image](../pic_stoarge/NovelAi%20pic/%7Bdark-skinned%20female%7D,%20sketch,limited%20palette,%7B%7Bwatercolor%7D%7D,beautiful%20eyes,%20gre%20s-2793054743.png)
+
+1girl, black suit, black tie, black hair, messy hair, round shades with red lenses, short hair, rough shadows, manga style
+![主要是这个阴影和style好看](../pic_stoarge/NovelAi%20pic/1girl,%20black%20suit,%20black%20tie,%20black%20hair,%20messy%20hair,%20round%20shades%20with%20red%20lens%20s-3629676318.png)
+
+{{{action scene of: passionately smile at viewer}}},upper body,{white short shirt},1girl,red headphones,red eyes, red necktie,{{{{black trousers}}}},two-tone hair,{{{black hair}}},{{white hair}},red shoes,{{manga illustration, black-and-white, masterpiece}}{{solo, 1girl}},intricate details, character focus,{{chainsaw man(style)}}, manga (chainsaw man), demon background,{{detailed background}},{scattered glowing turquoise butterflies},{{universal gods awaken}}, cosmic horror, eldritch horror, alternate universe
+![这个漫画风和设计很搭](../pic_stoarge/NovelAi%20pic/%7B%7B%7Baction%20scene%20of_%20passionately%20smile%20at%20viewer%7D%7D%7D,upper%20body,%7Bwhite%20short%20shir%20s-229655472.png)
