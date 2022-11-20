@@ -306,4 +306,12 @@ lymph
 
 a royal wedding, medieval, fantasy, a crowd of people, dynamic style, interior, intricate, incredible detail, breathtaking, photorealistic, atmospheric, painted by the gods themselves, historic
 
+
+{{intricate details}},painting, {masterpiece},illustration,beautiful detailed,{high resolution illustration}, {{Databending}}, {online}, {{Glitch art}}, {junji ito}, {Mike Mignola}, internet, virtual reality, shibuya (tokyo), tokyo, buildings, towers, {{{1girl, short hair, bangs}}}, detailed face, lain, cyber, jacket, vr, {{{{wires, cables, dramatic lighting, broken, machinery}}}}, cyborg, cyber ware, cyberpunk, lines across face, broken machinery,
+
+breathtaking, dynamic style, masterpiece, extremely intricate, beautiful detailed girl, cosmic aura, vibrant colors, mystic cloth, sexy, dark veil fabric, white vibrant hair, extremely beautiful face, beautiful eyes, short haired, female, kitsune, large fox ears, large fox tail, smile, aura, galaxy eye, long sleeves, galaxy, earrings, dark collar, time pendant, gold chains, hourglass {{{masterpiece, best quality, illustration, finely detailed, highly detailed, ultra-detailed}}} [[[large background, water floor, beautiful star (sky) background, magic library background, Cosmic colored]]] Spell signs, {{{Cosmic}}} {{background, Star shower, large library, high perspective, towering lot of books, circular center desk, machine (nier), megastructure, gears, cog}}
+
+NSFW, Liquid Metal clothes, Large breasts, Liquid metal lingerie, {{{{masterpiece}}}}, {{{{photorealistic}}}}, {{{{realistic face and metal}}}}, cgi, 3d, {{{high detail}}}, {{{{dynamic hair}}}}, {{{masterpiece}}}, {{{high-red detailed metal}}}, illustration, {{{{{crystalline detailed eyes}}}}}, {{cinematic light}}, ultra detailed Liquid Metal, depth of field, {{{{short hair}}}}, {light particles}, {{dust in air}}, {extremely detailed CG unity 8k wallpaper}, god rays, {{wide shot}}}, natural lips, sparkling eyes, hazel eyes, white hair, flowing hair, {{long hair}}, [[blush]], [[[[freckles]]]], {{long eyelashes}}, dark, {{castle}}, window light, green necklace, Liquid Metal dress, royalty, {{Liquid Metal head piece}}, {{{dark Liquid Metal veil}}}, {{{{{liquid metal }}}}}, {{{{{{chrome metal}}}}}}, {{{goddess}}}, {{{large breasts}}} 
+
+
 ```
