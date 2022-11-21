@@ -323,5 +323,7 @@ realistic,full body shot, trending on artstation, black paper, {{{uzui_tengen}},
 
 {1girl}, {solo}, {{{dynamic angle}}}, {{dynamic pose}}, {{{masterpiece}}}, illustration, {{{{{beautiful detailed sky}}}}}, {{{{{beautiful-detailed eyes}}}}},  {{cinematic light}}, ultra detailed, {{{{{disheveled hair}}}}}, dragon scales on neck, dragon scales armor, spikes, jewelry yellow eyes, ghostly,, {{{frills}}}, standing, day, floating cloud, {{{beautiful detailed cloud}}}, {glow_white_particles}, detailed-clothes,{delicate-decorations},{gorgeous-hair-ornament}, from side, serious, parted lips
 
+masterpiece, best quality, illustration, finely detailed, Cybernetic, sexy, Robot, William Gibson, Science Fiction, Fantasy, Cyberspace Background, detailed accurate anatomy, female, robotic, metal textures, high res, metal shading, textile textures, fine details, textile shading, beautiful, detailed background, wiring, attractive, fine details
+
 
 ```
