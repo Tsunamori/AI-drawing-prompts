@@ -20,7 +20,7 @@
 2. 红白
 
 
-### 蓝blue\azure\indigo
+### 蓝blue\azure\indigo\baby blue
 
 (azure浅蓝、indigo靛蓝)
 

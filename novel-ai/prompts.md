@@ -325,5 +325,7 @@ realistic,full body shot, trending on artstation, black paper, {{{uzui_tengen}},
 
 masterpiece, best quality, illustration, finely detailed, Cybernetic, sexy, Robot, William Gibson, Science Fiction, Fantasy, Cyberspace Background, detailed accurate anatomy, female, robotic, metal textures, high res, metal shading, textile textures, fine details, textile shading, beautiful, detailed background, wiring, attractive, fine details
 
+{photorealistic}, CGI realistic {masterpiece}, {1girl, madure}, {long Blonde hair, emphasis, extremely detailed, flowing}, {realistic hair}, {happy face} {blue eyes}, {best quality, best illumination}, {8k resolution}, {ultra detailed}, {dress metal}, {metal hair, metal Link }, {metal texture}, {metal necklace}, {eyelashes [metal]}, {metal veil}, {metal flowers}, {ultra realístic }, {realístic light}, {realístic Emphasis }, {natural lips}, {Vivid colors}, {window light}, {god rays, wide shot}, {shadow ultra detailed}, { Fire particles covering the eye}, {sitting of hair vibrant, flowing, realistic, detailed}, {gradient hair},
+
 
 ```
