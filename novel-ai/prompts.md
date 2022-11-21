@@ -313,5 +313,15 @@ breathtaking, dynamic style, masterpiece, extremely intricate, beautiful detaile
 
 NSFW, Liquid Metal clothes, Large breasts, Liquid metal lingerie, {{{{masterpiece}}}}, {{{{photorealistic}}}}, {{{{realistic face and metal}}}}, cgi, 3d, {{{high detail}}}, {{{{dynamic hair}}}}, {{{masterpiece}}}, {{{high-red detailed metal}}}, illustration, {{{{{crystalline detailed eyes}}}}}, {{cinematic light}}, ultra detailed Liquid Metal, depth of field, {{{{short hair}}}}, {light particles}, {{dust in air}}, {extremely detailed CG unity 8k wallpaper}, god rays, {{wide shot}}}, natural lips, sparkling eyes, hazel eyes, white hair, flowing hair, {{long hair}}, [[blush]], [[[[freckles]]]], {{long eyelashes}}, dark, {{castle}}, window light, green necklace, Liquid Metal dress, royalty, {{Liquid Metal head piece}}, {{{dark Liquid Metal veil}}}, {{{{{liquid metal }}}}}, {{{{{{chrome metal}}}}}}, {{{goddess}}}, {{{large breasts}}} 
 
+masterpiece, best quality, illustration, finely detailed, Cybernetic, sexy, Robot, William Gibson, Science Fiction, Fantasy, Cyberspace Background, detailed accurate anatomy, robotic, metal textures, high res, metal shading, textile textures, fine details, textile shading, beautiful, detailed background, wiring
+
+Goddess, Mythological, Unicorn, fantasy, high quality, high res, intricate details, {{{intricate hair details}}}}, {{{{{beautiful detailed eyes}}}}}, {{{{{beautiful detailed background}}}}}, depth of field, detailed eyes, fine detailed hair, fine clothes, fine skin details, textile shading, Magic Forest Background
+
+intricate, atmospheric, masterpiece, incredible detail, orange-ish atmosphere, solo, girl,
+
+realistic,full body shot, trending on artstation, black paper, {{{uzui_tengen}},{{{masterpiece}}},{{{best quality}}},{{ultra-detailed}}, {{illustration}},   solo , {{an extremely delicate and beautiful}}, weapon,{beautiful detailed eyes}, clean, {{disheveled hair}},   {painting{, 1girl, muscle, short white hair, hair between eyes, {{ninja}}}, {{{female, girl badass ninja, sword_on_back, make_up, japanese face tattoo}}},  {{beautiful detailed japanese city scenery}},  elegant ninja clothes, head ornaments, {{{armored gemstone forehead protector, gemstones , gemstones ornaments, double chain sword, head ornament}}},  volumetric light, {{{intricate details}}}, {{{{{ultra detailed}}}}} ,{{{{{beautiful detailed hair}}}}},{{{{{beautiful detailed purple eye}}}}}, {{{{{detailed splash}}}}},{{{{{beautiful detailed scenery, ultral detailed background }}}}}
+
+{1girl}, {solo}, {{{dynamic angle}}}, {{dynamic pose}}, {{{masterpiece}}}, illustration, {{{{{beautiful detailed sky}}}}}, {{{{{beautiful-detailed eyes}}}}},  {{cinematic light}}, ultra detailed, {{{{{disheveled hair}}}}}, dragon scales on neck, dragon scales armor, spikes, jewelry yellow eyes, ghostly,, {{{frills}}}, standing, day, floating cloud, {{{beautiful detailed cloud}}}, {glow_white_particles}, detailed-clothes,{delicate-decorations},{gorgeous-hair-ornament}, from side, serious, parted lips
+
 
 ```
