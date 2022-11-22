@@ -50,6 +50,8 @@ Shale armor boots 页岩盔甲靴
 
 full plate armor 全身盔甲
 
+mechanical joint, mechanical arm 机械关节，机械手臂
+
 ### 中式/西式复古/宴会装/宫廷装/未来风
 
 rococco 洛可可

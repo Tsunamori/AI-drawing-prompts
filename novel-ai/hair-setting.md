@@ -20,9 +20,19 @@ braids 辫子
 
 messy hair 刚睡醒的凌乱头发
 
+twintails 双马尾
+
+ponytail 单马尾
+
 ### 长度
 
 medium hair
+
+### 头发形态
+
+flowing hair 飘浮的头发
+
+lowing hair 低垂的头发
 
 ### 发色
 
@@ -30,3 +40,5 @@ two-tone hair 两种颜色的头发，可以设定颜色（two-tone hair,{{{blac
 
 multicolored hair 多种颜色的头发，比较随机
 ![多色头发，颜色分界大概率和光线有关](../pic_stoarge/NovelAi%20pic/multicolored%20hair,%201girl,%20beautiful,%20small%20waist,%20realistic,%20ray%20tracing,%20red%20dr%20s-4203488845.png)
+
+inner colored hair 

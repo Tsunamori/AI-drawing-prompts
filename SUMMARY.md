@@ -17,6 +17,7 @@
   * [微表情](novel-ai/facial-expression.md)
   * [人物背景搭配/魔法特效/装饰细节](novel-ai/special-effects.md)
     * [光影特效](novel-ai/ray-light-etc.md)
+    * [魔法特效](novel-ai/magic-background.md)
     * [蝴蝶特效研究](novel-ai/butterflys.md)
     * [背景景物研究](novel-ai/flower-background.md)
   * [未整理的整句](novel-ai/prompts.md)

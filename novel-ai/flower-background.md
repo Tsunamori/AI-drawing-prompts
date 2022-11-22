@@ -16,3 +16,7 @@
 acient palace background
 
 chapel background 教堂背景
+
+### 血色背景
+
+blood drop, blood fog, splashing blood, (bloodstain), bloody background, blood floating around, blood scenery, blood moon, blood sky,

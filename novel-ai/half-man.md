@@ -25,3 +25,11 @@ masterpiece, {best quality}, finely detailed, Depth of field, extremely detailed
 ![虽然产出还不是很稳定，但看到这张图的时候我觉得我对人鱼的研究可以告一段落了](../pic_stoarge/NovelAi%20pic/masterpiece,%20%7Bbest%20quality%7D,%20finely%20detailed,%20Depth%20of%20field,%20extremely%20detailed%20s-3501949256.png)
 
 为啥我去掉了加鱼鳍呢，因为它总是在尾巴上乱加搞得画面很怪，干脆就去掉了。最一开始的prompts（看最上面）可以生成耳朵为鱼鳍的人鱼，很好看，但搞全身就。。去掉了。
+
+### 精灵
+
+这个其实比较简单，主要加上`elf, elf ears, pointy ears`就行。
+
+### 血族
+
+后面研究一下，估计关键词是`vampire, [尖牙], [黑色披风], pointy ears, red eyes, pale skin, `

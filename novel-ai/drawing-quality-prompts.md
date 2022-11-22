@@ -11,6 +11,7 @@ extremely detailed
 8K wallpaper
 high resolution
 intricate details 复杂细节
+depth of field 景深，不确定提升了什么
 ```
 一些细碎补充：
    关于best quality/high quality等其实还有其它quality关键词（但都偏向于降低质量，具体参照[wiki](https://naidb.miraheze.org/wiki/Image_Generation)）
