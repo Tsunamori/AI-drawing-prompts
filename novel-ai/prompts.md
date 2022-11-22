@@ -19,12 +19,8 @@ Curated model
 2girls, outside, nature; red hair, long hair, sidelocks, blunt bangs, blue eyes, blush, pale skin, flat chest, grey hoodie, shorts, black leggings, brown footwear; black hair, black shorts, long hair, looking at viewer, shorts, tan, tank top, medium breasts, smile, ponytail, purple eyes
 「」「」「」「」「」「」「」「」
 
-
-A large mirror that opens a portal to space, {galaxies in mirror}, masterpiece, {{{{highly detailed}}}}, highres, casual living room in background, cinematic lighting
-high_quality_background detailed_sky {rainforest} anime fantasy HD magical rain woods view_from_ground dirt moss masterpiece {{hyper_realistic}} night stars moon pond river small_fireflies best_quality clear_resolution
-steampunk_hot_air_balloon_ornate_detailed
-1girl, (ishida sui: 1.2),  (sketch:1), limited palette, red eyes, silver hair, shiny skin, hair between eyes, empty eyes, (lips:0.4), (watercolor:0.8), white background, (ink splatter: 1.1), from side, hair flower, (carne griffiths:1.1), red flower
 1girl, floating hair, magic, lens flare, dynamic angle, portrait, solo, hidden hands, shattered glass, floating glass, glass fragments, ribbons, bowtie, hair ornament, buttons, cinematic lighting, shadows,
+
 celestial sorceress, beautiful eyes, silver shiny hair, delicate gold crown, diamonds, glitter, dynamic angle, (ink splatter:2.5), (agnes cecile:5.5), star-lit, limited palette, pixiv (style), {{{pearlescent}}}
 {{by Gaston Bussiere}}, Chiaroscuro, {{{realistic}}}, {{{art nouveau}}}, gorget, upper body, 1girl, monster girl, succubus, long hair, smile, evil, glowing eyes, blue skin, purple hair, green eyes, backlit, overbust corset, dragon wings, {{hellfire, fire background}}
 1girl, solo, fire particles, white hair, short hair, curly hair (idea from myeong_chung), red eyes, burning, blue fire, serious, cinematic angle, lighting, mage,

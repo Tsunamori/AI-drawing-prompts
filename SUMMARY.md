@@ -6,6 +6,7 @@
   * [画面风格/色调/滤镜](novel-ai/drawing-style.md)
     * [好看的颜色搭配](novel-ai/color-combo.md)
     * [神话效果研究](novel-ai/methicial-research.md)
+    * [黑白风](novel-ai/black-and-white.md)
   * [风景/静物/非人](novel-ai/landscape-things-inhuman.md)
   * [人物描述](novel-ai/character-description.md)
     * [衣物关键词研究](novel-ai/upper-clothes.md)

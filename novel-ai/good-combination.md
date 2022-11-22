@@ -13,3 +13,5 @@
 
 {{{action scene of: passionately smile at viewer}}},upper body,{white short shirt},1girl,red headphones,red eyes, red necktie,{{{{black trousers}}}},two-tone hair,{{{black hair}}},{{white hair}},red shoes,{{manga illustration, black-and-white, masterpiece}}{{solo, 1girl}},intricate details, character focus,{{chainsaw man(style)}}, manga (chainsaw man), demon background,{{detailed background}},{scattered glowing turquoise butterflies},{{universal gods awaken}}, cosmic horror, eldritch horror, alternate universe
 ![这个漫画风和设计很搭](../pic_stoarge/NovelAi%20pic/%7B%7B%7Baction%20scene%20of_%20passionately%20smile%20at%20viewer%7D%7D%7D,upper%20body,%7Bwhite%20short%20shir%20s-229655472.png)
+
+1girl, (ishida sui: 1.2),  (sketch:1), limited palette, red eyes, silver hair, shiny skin, hair between eyes, empty eyes, (lips:0.4), (watercolor:0.8), white background, (ink splatter: 1.1), from side, hair flower, (carne griffiths:1.1), red flower

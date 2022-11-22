@@ -22,6 +22,9 @@ Large cosmic mystic creature with near transparent wings floating in air, {scatt
 
 Ancient palace background （注意加中式/西式来定义）
 
+`high_quality_background detailed_sky {rainforest} anime fantasy HD magical rain woods view_from_ground dirt moss masterpiece {{hyper_realistic}} night stars moon pond river small_fireflies best_quality clear_resolution`
+![image](../pic_stoarge/NovelAi%20pic/high_quality_background%20detailed_sky%20%7Brainforest%7D%20anime%20fantasy%20HD%20magical%20rain%20s-254753214.png)
+
 ### 静物
 
 #### 物品
