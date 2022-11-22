@@ -86,3 +86,23 @@ step 28 scale 11 k_euler
 nc: ugly, multi tails
 
 ![image](../pic_stoarge/NovelAi%20pic/masterpiece,%20%7Bbest%20quality%7D,%20finely%20detailed,%20Depth%20of%20field,%20extremely%20detailed%20s-961541842.png)
+
+## fantasy tag 研究
+
+既然确定了主要效果来自fantasy，把它和一些其他风格结合一下有没有什么好看的效果。
+
+首先做一个初始图像取seed做后续对比。
+
+`masterpiece, 1girl, purple curly hair, white dress, `
+
+![seed:3838361589](../pic_stoarge/NovelAi%20pic/masterpiece,%201girl,%20purple%20curly%20hair,%20white%20dress,%20s-3838361589.png)
+
+加上fantacy。
+
+![masterpiece, fantasy, 1girl, purple curly hair, white dress, ](../pic_stoarge/NovelAi%20pic/masterpiece,%20fantasy,%201girl,%20purple%20curly%20hair,%20white%20dress,%20s-3838361589.png)
+
+变化不大，把scale调低到4.5，提升变化。
+
+![scale4.5](../pic_stoarge/NovelAi%20pic/masterpiece,%20fantasy,%201girl,%20purple%20curly%20hair,%20white%20dress,%20s-3838361589%20(copy%201).png)
+
+![fantasy, melt metal](../pic_stoarge/NovelAi%20pic/masterpiece,%20fantasy,%201girl,%20purple%20curly%20hair,%20white%20dress,%20s-3838361589%20(copy%201).png)
