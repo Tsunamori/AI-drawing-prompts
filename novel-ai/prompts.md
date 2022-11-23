@@ -322,4 +322,6 @@ masterpiece, best quality, illustration, finely detailed, Cybernetic, sexy, Robo
 portrait, dark background, muted colours, 1girl, yellow slit pupils, {{{realism}}}, solo, masterpiece, best quality, contrast, {{venetian half-mask}}, sinister expression, {wide-brimmed hat}, inverness cape, knowing smile
 
 Ultra detailed,  great composition, {{eerie aesthetic}}, {dramatic lighting},[ photorealistic], Goddess, Mythological, reaper, fantasy, steampunk, high quality, high res, intricate details, {{{intricate hair details}}}}, {{{{{beautiful detailed eyes}}}}}, {{{{{beautiful detailed background}}}}}, depth of field, detailed eyes, fine detailed hair, fine clothes, fine skin details, textile shading, bone headpiece 8 layers, {small breasts}, mist,  intricate jewelry, Lace eyelashes,  Bones , Grey skin, Lovecraft horror, Ray tracing, {Body horror}, dynamic shadows, dynamic angle, {{highly intricate face tattoo}},  {{eye spiral}}
+
+science fiction(theme), {{{Cosmic background}}}, Cosmic Eye, cinematic lighting, dynamic pose, {{{{{beautiful multicolored eyes}}}}}, {{{{{beautiful eye details}}}}}, depth of field, studio quality, realistic textures, lifelike textures, realistic shadows
 ```
