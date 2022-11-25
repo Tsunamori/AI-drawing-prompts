@@ -87,6 +87,14 @@ nc: ugly, multi tails
 
 ![image](../pic_stoarge/NovelAi%20pic/masterpiece,%20%7Bbest%20quality%7D,%20finely%20detailed,%20Depth%20of%20field,%20extremely%20detailed%20s-961541842.png)
 
+使用NAI diffusion的curated模型试了下，去掉了人鱼描述，scale 11
+这个模型相对来说确实更好看一些，但人脸貌似有点单调。
+![image](../pic_stoarge/NovelAi%20pic/masterpiece,%20%7Bbest%20quality%7D,%20finely%20detailed,%20Depth%20of%20field,%20extremely%20detailed%20s-3703327701.png)
+
+scale 4.5
+
+![image](../pic_stoarge/NovelAi%20pic/masterpiece,%20%7Bbest%20quality%7D,%20finely%20detailed,%20Depth%20of%20field,%20extremely%20detailed%20s-502007984.png)
+
 ## fantasy tag 研究
 
 既然确定了主要效果来自fantasy，把它和一些其他风格结合一下有没有什么好看的效果。

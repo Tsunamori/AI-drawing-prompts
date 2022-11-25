@@ -326,4 +326,20 @@ Ultra detailed,  great composition, {{eerie aesthetic}}, {dramatic lighting},[ p
 science fiction(theme), {{{Cosmic background}}}, Cosmic Eye, cinematic lighting, dynamic pose, {{{{{beautiful multicolored eyes}}}}}, {{{{{beautiful eye details}}}}}, depth of field, studio quality, realistic textures, lifelike textures, realistic shadows
 
 {{{photorealistic}}}, {{hyper realistic}}, {{intricate details}}, painting, {masterpiece}, illustration, beautiful detailed, {{{dynamic_pose, dynamic_angle}}}, {high resolution illustration}, hyper detailed, soft, character focus, detailed scenery, detailed light, Delicate facial features, {{{{beautiful detailed eyes}}}}, {{{girl}}}, small_breast, {{{{cute}}}}, pink_short_hair, pink_eyes, curly hair, {{{red_gothic_dress}}}, {{{frills}}}, standing, looking each other, in rose garden, expressionless, {half_closed_eyes}, jewelry_earrings, splash_blood, {{flowing_bloody_particles}}, {{{blood}}}, {{{glowing_red_particles}}}, sunlight
+
+Sketch, {{{{masterpiece}}}}, {{{{best quality}}}}, {{{{illustration}}}}, 1girl, looking at viewer, fronted, Girl , Pink t-shirt , {{{mechanical wings ,mechanical, bow, mechanical parts, {{cberpunk ,{{mecha musume, {{{kaleidoscopic eyes
+
+beautiful Fairy with translucent wings sitting on a spotted mushroom,{high res, best quality}, {beautiful eyes}, {intricate wing details}, textile shading, facing viewer
+
+Prompt : 
+
+{beautiful}, meadow, zero pictured, depth of field, {best quality}, photorealistic, real, waterfall, magic, detailed background, detailed, best, amazing, best detail, nature,  {amazing background}, nature, scenery porn, clouds, stars, moon, flowers, mist, water vapor, romantic ambiance, soft moonlight, wilderness, cherry blossoms
+
+UC: 
+
+{{worst quality}}, {low quality}, [nightmare fuel], normal quality, [widescreen], annoying watermark, [simple background], bad art, sketchy, undetailed
+
+beautiful, {{{{full body}}}}, {{seductive face and eyes}}, {species:any}, {{cosmic background}}, high res, textile shading, textile textures, dynamic lighting, {facing viewer}, {mystic energies}
+
+Intense gaze, Multicolored light reflection, {Ray tracing}, emo fashion, Multicolored lights,  detailed anatomy, backlighting, Exposed Collar bone, Messy hair, 1 beauty mole, {{{{male}}}}, Ear studs, half updo, Dark hair, High res eyes, Portrait, {photorealistic}, Firm anatomy, Medium length hair, Slim figure, Handsome, young man, well drawn hair,  high quality, high res, {{well drawn eyes}}, {intricate detailed background}, depth of field, detailed eyes, fine skin details, textile shading, {cinematic lighting}, city, {{{neon signs}}}, light ray blur, bokeh, {{beautiful eyes}}, Colorful
 ```
