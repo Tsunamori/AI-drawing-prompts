@@ -114,3 +114,8 @@ scale 4.5
 ![scale4.5](../pic_stoarge/NovelAi%20pic/masterpiece,%20fantasy,%201girl,%20purple%20curly%20hair,%20white%20dress,%20s-3838361589%20(copy%201).png)
 
 ![fantasy, melt metal](../pic_stoarge/NovelAi%20pic/masterpiece,%20fantasy,%201girl,%20purple%20curly%20hair,%20white%20dress,%20s-3838361589%20(copy%201).png)
+
+## 一些神话系人设尝试
+
+从看到这个风格的时候，就想做一些类似于库洛牌的效果。
+
