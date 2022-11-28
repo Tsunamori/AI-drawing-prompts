@@ -342,4 +342,8 @@ UC:
 beautiful, {{{{full body}}}}, {{seductive face and eyes}}, {species:any}, {{cosmic background}}, high res, textile shading, textile textures, dynamic lighting, {facing viewer}, {mystic energies}
 
 Intense gaze, Multicolored light reflection, {Ray tracing}, emo fashion, Multicolored lights,  detailed anatomy, backlighting, Exposed Collar bone, Messy hair, 1 beauty mole, {{{{male}}}}, Ear studs, half updo, Dark hair, High res eyes, Portrait, {photorealistic}, Firm anatomy, Medium length hair, Slim figure, Handsome, young man, well drawn hair,  high quality, high res, {{well drawn eyes}}, {intricate detailed background}, depth of field, detailed eyes, fine skin details, textile shading, {cinematic lighting}, city, {{{neon signs}}}, light ray blur, bokeh, {{beautiful eyes}}, Colorful
+
+{{{masterpiece}}},best quality, illustration,{beautiful detailed girl},beautiful detailed glow,detailed ice,beautiful detailed water,{beautiful detailed eyes},expressionless,{floating palaces},azure hair,disheveled hair,long bangs, hairs between eyes,{skyblue dress},black ribbon,white bowties,midriff,{{{half closed eyes}}},big forhead,blank stare,flower,large top sleeves
+
+masterpiece, best quality, 1girl, frederica bernkastel holding a world between her hands, expressionless, blue hair, blue eyes, petite, occult ritual, glowing magical runes, space, cosmic, surreal, magic, {{{baroque}}}, intense lighting, dramatic angle
 ```
