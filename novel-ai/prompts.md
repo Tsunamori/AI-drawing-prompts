@@ -346,4 +346,6 @@ Intense gaze, Multicolored light reflection, {Ray tracing}, emo fashion, Multico
 {{{masterpiece}}},best quality, illustration,{beautiful detailed girl},beautiful detailed glow,detailed ice,beautiful detailed water,{beautiful detailed eyes},expressionless,{floating palaces},azure hair,disheveled hair,long bangs, hairs between eyes,{skyblue dress},black ribbon,white bowties,midriff,{{{half closed eyes}}},big forhead,blank stare,flower,large top sleeves
 
 masterpiece, best quality, 1girl, frederica bernkastel holding a world between her hands, expressionless, blue hair, blue eyes, petite, occult ritual, glowing magical runes, space, cosmic, surreal, magic, {{{baroque}}}, intense lighting, dramatic angle
+
+white and blue hair, long hair, blue eyes, breasts, diamonds, crystal, highres, {{{masterpiece}}}, white skirt, dress, short dress, strap, white belt, 
 ```
