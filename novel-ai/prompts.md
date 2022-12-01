@@ -350,4 +350,9 @@ masterpiece, best quality, 1girl, frederica bernkastel holding a world between h
 white and blue hair, long hair, blue eyes, breasts, diamonds, crystal, highres, {{{masterpiece}}}, white skirt, dress, short dress, strap, white belt, 
 
 1girl, {{Cute, {evil smile, prideful emotion, pride, selfish}, sexy face, slim toned body} mature female},  {{red pink eyes}}, {{pink long hair}}, {beautiful detailed perfect face, beautiful detailed perfect eyes}, Counter:Side, Counter:Side (shena), looking at viewer,   from below,  {{hair ornament,  intricate black leotard dress with braid skirt, bare shoulders, bare front hip, fingerless elbow gloves, {{showgirl intricate dark and golden big skirt with white  color on opposite side}},  Thigh-High Boots with garter straps, high heels,  {{translucent brown spandex under dress}}, tattoo in middle of a breasts, center opening}},  capelet, standing evocative pose,  skin tight cinematic lighting, dynamic shadows, intricate black and golden violin, shiny, jewelry, shiny hair, frills, long legs, medium breasts, masterpiece, cg, illustration, closed mouth, hair between eyes, elegant,  best illustration
+
+{{ultra Detailed}}, {{bodyline}}, {ultra quality}, {masterpiece}, {silver background}, {skin tight}, {{micro diamond particles}}, {{wizard robe}}, nothing, {frozen tundra}, {dark matter particles}, {dramatic shadows}, {cinematic lighting}, {{gradient hair}}, [purple and cyan hair], long hair, emerald empty eyes, small breasts, wind, white skirt, narrow waist, {long negligee}, white strap, silhouette, icicle dust, in [crystal cave],
+
+
+
 ```
