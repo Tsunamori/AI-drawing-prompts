@@ -353,6 +353,13 @@ white and blue hair, long hair, blue eyes, breasts, diamonds, crystal, highres, 
 
 {{ultra Detailed}}, {{bodyline}}, {ultra quality}, {masterpiece}, {silver background}, {skin tight}, {{micro diamond particles}}, {{wizard robe}}, nothing, {frozen tundra}, {dark matter particles}, {dramatic shadows}, {cinematic lighting}, {{gradient hair}}, [purple and cyan hair], long hair, emerald empty eyes, small breasts, wind, white skirt, narrow waist, {long negligee}, white strap, silhouette, icicle dust, in [crystal cave],
 
+{1girl}, {solo}, {{{masterpiece}}}, {{dynamic pose}}, {{dynamic angle}}, illustration, {{{{{beautiful-detailed eyes}}}}},  {{cinematic light}}, ultra detailed, {{{{{disheveled hair}}}}}, pink_short_hair, curly hair, pink_eyes {{{{{glow_magic_circle + mathematical_expression}}}}}, standing, {{{hair flows upsides}}}, {{{{clothes flows upsides}}}}, {{ruined castle background}}, {{expressionless}}, {{{{{falling feathers}}}}}, {{{{{{glow_white_particles}}}}}}, small breasts
+
+1boy, blue theme, solo, {{{masterpiece, high quality, extremely detailed, illustration}}}, knight, covered face, {{{{{{blue glowing eyes}}}}}}, helm, fused horn, cape, intricate details, {{{blue glow particles}}}, snow, fog, {{{blue}}} aurora, moon
+
+UC
+lowres, text, error, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, 3d, female, simple background, large breasts, multiple person, big eyes, red glow, muscular
+
 
 
 ```
