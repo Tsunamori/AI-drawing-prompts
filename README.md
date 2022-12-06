@@ -5,6 +5,7 @@ https://tsunamori.gitbook.io/ai-drawing-prompts/
 ## 现在支持的工具
 
 1. [NovelAI prompts](Novel%20AI/prompts.md)
+2. [ChatGPT](chatGPT/chatGPTforAI-drawing.md)
 
 ## 未来会支持的工具
 

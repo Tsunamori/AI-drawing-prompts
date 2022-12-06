@@ -2,6 +2,7 @@
 
 * [README](README.md)
 * [Novel AI](novel-ai/README.md)
+* [ChatGPT](chatGPT/chatGPTforAI-drawing.md)
   * [提升画面质量](novel-ai/drawing-quality-prompts.md)
   * [画面风格/色调/滤镜](novel-ai/drawing-style.md)
     * [好看的颜色搭配](novel-ai/color-combo.md)
