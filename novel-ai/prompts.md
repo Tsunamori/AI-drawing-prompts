@@ -360,6 +360,10 @@ white and blue hair, long hair, blue eyes, breasts, diamonds, crystal, highres, 
 UC
 lowres, text, error, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, 3d, female, simple background, large breasts, multiple person, big eyes, red glow, muscular
 
+{{{{masterpiece}}}},{{{{1080p}}}},{{{{extremely detailed CG}}}},{{16k_wallpaper}},{{best quality}},{{ultra-detailed}},{{illustration}},, {{{AMV}}}, {{{Smokey}}}, {{{Epic}},The sea, dock, peaceful,sea,shining water,Magnificent,cold,ships,middle ages,perfect, amazing, cure beauty,fresh cold sea
+
+1girl, solo, {{{sitting}}} {sitting on bench} bench beautiful smile, eyelashes, large masterpiece digital art, detailed manga illustration, soft, finely detailed, colorful, sunset (sky), clouds (sky), park, trees, flowers, rose princess, {{detailed eyes}}, beautiful detailed eyes, sparkling eyes, sparkles elegant, {{black hair}}, {{{black framed round glasses}} {{{{brown eyes}}}}, {shoulder-length hair}, {{1blue rose on the head}}, roses, medium breasts, perfect body, dramatic light, {{french princess outfix}}, dress, best quality, {masterpiece}, full-body shot, one hand holding swing, ethereal, long pink and white dress,  {{cinematic angle}} {{dramatic angle}} flower crown
+
 
 
 ```
