@@ -6,6 +6,8 @@ give me a good prompt about 'the city in deep sea' for AI drawing
 
 Here is a prompt about "a embossed badge about the lost city in deep sea" for AI drawing:
 
+design me a good bedroom (然后把GPT给的描述贴进AI里)
+
 ## 适配的AI绘画工具和特殊调整
 
 目前适配相对好的是Midjourney，或者其它对自然文本语言处理/领会比较好且**在不加任何额外调整或仅需要少量调整时就可以生成符合需求且好看**的工具。
