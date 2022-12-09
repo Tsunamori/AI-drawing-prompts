@@ -27,5 +27,7 @@
     * [水墨-挑染-飘动](novel-ai/ink-dye-flow.md)
 * [ChatGPT](chatGPT/README.md)
   * [与AI绘画工具联动](chatGPT/chatGPTforAI-drawing.md)
+  * [角色扮演互动](chatGPT/role-playing.md)
+  * [更好的工具人](chatGPT/be-a-better-tool.md)
 * [Midjourney](midjourney/README.md)
   * [徽章](midjourney/badge.md)

@@ -8,15 +8,15 @@ https://tsunamori.gitbook.io/ai-drawing-prompts/
 2. [ChatGPT](chatGPT/README.md)
 3. [Midjourney](midjourney/README.md)
 
-## 未来会支持的工具
+## 未来可能会支持的工具
 
 1. stable-diffusion
    
 ## 前言
 
-本项目主要用于收集prompts、整理短语效果样图、翻译prompts，方便想用AI绘画产出预想结果的人提前了解需要哪些词汇来组织prompts，希望能起到一些词典的效果。
+本项目主要用于收集prompts及prompts相关的案例、用法、优化。
 
-大部分prompts会使用机翻来翻译+少量人工优化，主要是懒。
+实际上不只是AI绘画（~~本来是的但是ChatGPT横空出世~~）。
 
 推荐使用gitbook版阅读。
 
