@@ -28,3 +28,4 @@
 * [ChatGPT](chatGPT/README.md)
   * [与AI绘画工具联动](chatGPT/chatGPTforAI-drawing.md)
 * [Midjourney](midjourney/README.md)
+  * [徽章](midjourney/badge.md)

@@ -4,6 +4,10 @@
 
 ### 让GPT扮演terminal
 
+```
+现在你要来扮演个Linux terminal，我输入命令，你输入输出。你需要以one unique code block的形式输出terminal output，不要加解释，不要加其它多余内容。现在我输入第一个命令：pwd
+```
+
 ### 你扮演一个terminal让GPT来操作
 
 ```
