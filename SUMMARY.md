@@ -31,3 +31,4 @@
   * [更好的工具人](chatGPT/be-a-better-tool.md)
 * [Midjourney](midjourney/README.md)
   * [徽章](midjourney/badge.md)
+  * [幽灵](midjourney/ghost.md)
